@@ -5,46 +5,46 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:nWdJG_mnLzwnT9g0kS3Xc
+UID:V0EYcQXt3QQKmtHge02QW
 SUMMARY:[HULIAS] Artist Talk: UKS – How To Practice? No. 39: Max Hannus
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20220919T080000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:_1rjv-iOsAuvMzanUECmE
+UID:DGUTMiVbL9PmOTpoNdCpe
 SUMMARY:[HULIAS] Opening: Schaft
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20210508T100000Z
 URL:https://www.hulias.info/exhibition/schaft
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:UfZJEV-XaM2e5WMY8y2MC
+UID:lb-n0tVftywtIV8hxTNJ5
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211031T140000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:k1YvllxPkyJZblRKvgVII
+UID:aMQi_miuD69o3DSNGJWvt
 SUMMARY:[HULIAS] Opening: Savage
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211126T170000Z
 URL:https://www.hulias.info/exhibition/savage
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:4tM3VbTuFVNpQAFeKt6XG
+UID:-FNueaBeATA_ss4IaYw0A
 SUMMARY:[HULIAS] Opening: Phynance Argothique\, eller: Slangenes velsignels
 	e
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20210813T160000Z
 URL:https://www.hulias.info/exhibition/phynance-argothique-eller-slangenes-
 	velsignelse
@@ -52,226 +52,235 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:74DkIY4xOovfht56ae1MD
+UID:UQoYKc3bVIan_s0c-kpYf
 SUMMARY:[HULIAS] Opening: Lounge for Now People
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20220603T160000Z
 URL:https://www.hulias.info/exhibition/lounge-for-now-people
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:mNIPKeANqf5ADqrHjBQya
+UID:78qL3TdLi_fObzMY-_gKl
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211024T130000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:7if2wg2fByG6mDQo_-9_p
+UID:J7TBXHrxD8k9_Q_1rQ7J2
+SUMMARY:[HULIAS] Concert: Nagaver – Kovillam (FR006) Cassette Release
+DTSTAMP:20221121T110600Z
+DTSTART:20221201T190000Z
+URL:https://www.hulias.info/events
+LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:bLF1Ch7ARBvNWjRzNMPW7
 SUMMARY:[HULIAS] Opening: Subsisting
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20201023T160000Z
 URL:https://www.hulias.info/exhibition/subsisting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:cXBXxeNc4YOcL-8z-yVcx
+UID:Y6jnA7H_UiBHKNwp7RumI
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211107T140000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:OiM0IvpGO9FCsI6V5eHyv
+UID:tGRacRdKqfDPGmltNXQq3
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211030T130000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:WVBa3u06TAkZCf_63Q9q8
+UID:d2e971bCPX7j9z1Bkzf7w
 SUMMARY:[HULIAS] Opening: Vi er dine venner
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20210605T120000Z
 URL:https://www.hulias.info/exhibition/vi-er-dine-venner
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT4H
 END:VEVENT
 BEGIN:VEVENT
-UID:ymSQIpLnQLcUraogDvv5v
+UID:HGGjN7Cm8WiQwQSV_Gj6e
 SUMMARY:[HULIAS] Opening: Matias Kiil
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20230414T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:11OaNVUyXo_c17R4020pt
+UID:UEDHghMufJL3OqLI28S-K
 SUMMARY:[HULIAS] Artist Talk: UKS – How To Practice? No. 37: Founders of Hu
 	lias
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20220829T080000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:KJLv27_8CPWHBdr-cxpFl
+UID:8efAiE85-mi1fO226Yh_A
 SUMMARY:[HULIAS] Opening: Third Place Bonbon
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20210205T110000Z
 URL:https://www.hulias.info/exhibition/third-place-bonbon
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:AWa2998HDBDyaI4TOeOuQ
+UID:6JqLQsxCtiGz4imSv6eX6
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211022T180000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:oJqNUoGZG2SEZi5kvKcWi
+UID:8XZmgA1kEODNFhjZUjfZ5
 SUMMARY:[HULIAS] Opening: Lediggang & Tullprat
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20220819T160000Z
 URL:https://www.hulias.info/exhibition/lediggang-og-tullprat
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:KjSPGbRAMHmhjZVcEENmi
+UID:g_Avf3b-RVASoUPnY3f5f
 SUMMARY:[HULIAS] Opening: ... And Slumber Might Return
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20210917T160000Z
 URL:https://www.hulias.info/exhibition/and-slumber-might-return
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:LvrHdzILHgTDlPU2Knb6d
+UID:Zv-M6ZpQ78rhdCtYXaM2D
 SUMMARY:[HULIAS] Opening: Ilavenil Vasuky Jayapalan
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20230120T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:cJzPs0Gzl3-50ijNGXhpj
+UID:3xqReyWF-c_6Lp9QD_zIo
 SUMMARY:[HULIAS] Opening: The Grand Meeting
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211022T160000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:hqhhgP9ORUghhozKWak1f
+UID:KU4xMBJgHCHRnsHAhhKQP
 SUMMARY:[HULIAS] Oslo Open
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20220424T110000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:wCg39WBOZY-WyJXzEECVW
+UID:0P-yrrztPOST39JMwmBol
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211114T140000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:B2BGyR3IxdEON54Ryi1Co
+UID:nHfNy9U1M-9_BrgJAho4x
 SUMMARY:[HULIAS] Opening: A K Dolven
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20230526T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:SURGtEVZpy4p_rldnDiCm
+UID:uJsC9OnS2KVafxEjqLJV5
 SUMMARY:[HULIAS] Opening: Lys er bølger i mørke
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20220304T170000Z
 URL:https://www.hulias.info/exhibition/lys-er-bolger-i-morke
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:zQI-M5zy9ycECvDUBzAGH
+UID:GZMnbVbiiFZ--7FN7DzBG
 SUMMARY:[HULIAS] Opening: Said the Snail to the Human
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20221007T160000Z
 URL:https://www.hulias.info/exhibition/said-the-snail-to-the-human
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:LL8lB4-O3IMBNSVuNd5gg
+UID:K16xrCYOF7LNcElUEYFY_
 SUMMARY:[HULIAS] Summer gathering with Hermetiske Skygger in the backyard
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20220603T180000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:3tpv60UtYnP38jeSD_LiN
+UID:pAUF4DsNfr8_1GDhgEr7O
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211113T140000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:kOXMycXsljhzmAYbdI8ma
+UID:Z1m4sVisMQl-byjUsOebC
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211023T130000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:1EpJV_PyTPhgz4gd3PJqe
+UID:JZczxeBUnuDPZgayE0TVf
 SUMMARY:[HULIAS] Opening: Himmelen og treet
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20220121T170000Z
 URL:https://www.hulias.info/exhibition/himmelen-og-treet
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:wcnMj24W3_LgDUaVRNXCA
+UID:VxPyqQAWce1nZmvOS4hGq
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20211106T140000Z
 URL:https://www.hulias.info/exhibition/the-grand-meeting
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:EQHe3OI8eM1PTZgLiamJB
+UID:yRSunDPwSMc_zk9-_9Ijr
 SUMMARY:[HULIAS] Opening: Out of Love
-DTSTAMP:20221118T113100Z
+DTSTAMP:20221121T110600Z
 DTSTART:20220422T160000Z
 URL:https://www.hulias.info/exhibition/out-of-love
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
