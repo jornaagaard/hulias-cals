@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:nfQ3yNSh78ohANgYUWYCq
+UID:MUTZFneud7mEW4hsvpsQz
 SUMMARY:[HULIAS] Exhibition: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230526
 DTEND;VALUE=DATE:20230619
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
@@ -18,9 +18,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:BCpughnoR8RMcjKevRJY4
+UID:wydEgbIBia2WREZFdaPAT
 SUMMARY:[HULIAS] Exhibition: ... And Slumber Might Return (Miriam Hansen)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210917
 DTEND;VALUE=DATE:20211011
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
@@ -31,9 +31,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:PSb42EQEtG9gMWgzbP_xF
+UID:D-jpreZPW9fYggiLh0ieU
 SUMMARY:[HULIAS] Exhibition: Himmelen og treet (Aksel Ree)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220121
 DTEND;VALUE=DATE:20220214
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
@@ -44,9 +44,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:21r2VIkeYxDK_yUmB3GPe
+UID:lw6sV5itDbHF4pD6LOHkw
 SUMMARY:[HULIAS] Exhibition: Lediggang & Tullprat (Andreas Meinich)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220819
 DTEND;VALUE=DATE:20220912
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
@@ -57,9 +57,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:rvX-_5w0TWhBNz6aq7l0S
+UID:48JRgnjZA6YUOCYplpP_L
 SUMMARY:[HULIAS] Exhibition: Vi er dine venner (Hedda Hørran)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210605
 DTEND;VALUE=DATE:20210628
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
@@ -69,9 +69,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:-dJuDgPEWk-BP8A6yCmcq
+UID:DFuOJfNFzJ0Pn7LfF5BNh
 SUMMARY:[HULIAS] Exhibition: Said the Snail to the Human (Kim Wawer)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221007
 DTEND;VALUE=DATE:20221031
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
@@ -82,9 +82,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:0-68I4surKyhXrMPVih3K
+UID:5gc8opVX3LkIcOHncE0po
 SUMMARY:[HULIAS] Exhibition: The Grand Meeting (Ada Nilsen)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211022
 DTEND;VALUE=DATE:20211115
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
@@ -95,9 +95,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:rBSFwM6J7_9F24BwIwFUT
-SUMMARY:[HULIAS] Exhibition: Velkommen igjen (Matias Kiil)
-DTSTAMP:20230317T115500Z
+UID:wvccJut5dQ4G7fdHIV7Tq
+SUMMARY:[HULIAS] Exhibition: Velkommen igjen. (Matias Kiil)
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230414
 DTEND;VALUE=DATE:20230508
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
@@ -108,10 +108,10 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:f0qrbZYzPjcPcRJaXb2vK
+UID:tG20kQqmMNhrrR3LOIM20
 SUMMARY:[HULIAS] Exhibition: Subsisting (Ada Nilsen\,Morten Jensen Vågen\,K
 	aare Ruud)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201024
 DTEND;VALUE=DATE:20201124
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
@@ -121,9 +121,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:kqSRleFIkt62KfFQOZ7sH
+UID:VIjbUt5y1T765RSZvAV6i
 SUMMARY:[HULIAS] Exhibition: Young Spring (Ilavenil Vasuky Jayapalan)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230120
 DTEND;VALUE=DATE:20230213
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
@@ -134,10 +134,10 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:ddKJpFcOgg_jhJbzu79Nq
+UID:zJVcreu8C8mYC1Wg1FuSe
 SUMMARY:[HULIAS] Exhibition: Lounge for Now People (Kim Wawer\,Aljosa Erako
 	vic\,Joar Nedberg\,Mia Van Veen\,Kristoffer Karlsen)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220603
 DTEND;VALUE=DATE:20220627
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
@@ -148,10 +148,10 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:AymehX5yMHVvmOAf5zceN
+UID:otCOxAsrLJVNZRXE2C7aR
 SUMMARY:[HULIAS] Exhibition: Quattro Formaggi (Aslak Gurholt\,Aksel Ree\,Ma
 	rius Mathisrud\,Solveig Lønseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201203
 DTEND;VALUE=DATE:20210125
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
@@ -161,9 +161,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:sukNdjqsQ9fDWqbtakxeb
+UID:X3xyUGTr73rA7WqZuV_8a
 SUMMARY:[HULIAS] Exhibition: Out of Love (Kaare Ruud)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220422
 DTEND;VALUE=DATE:20220516
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
@@ -174,9 +174,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:0biFQaqav7vqEm75BkqEK
+UID:qmH7OPAbjjmp0rK14wLMw
 SUMMARY:[HULIAS] Exhibition: Third Place Bonbon (Kristoffer Zeiner)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210205
 DTEND;VALUE=DATE:20210301
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
@@ -186,9 +186,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:2vpWTh_dJ6uE9OppQ93lN
+UID:tcShtEmRdNbP5_-D6dBX-
 SUMMARY:[HULIAS] Exhibition: Schaft (Bjørn Blikstad)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210508
 DTEND;VALUE=DATE:20210531
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
@@ -198,9 +198,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:gmOQeYtWKPHeY202WnqyH
+UID:rjbIOP3cHSxPDFUl6Wn3w
 SUMMARY:[HULIAS] Exhibition: Savage (Tonje Plur)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211126
 DTEND;VALUE=DATE:20211220
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
@@ -211,10 +211,10 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:N22pwk3Z9hmIxBAp_UIWR
+UID:MQEK4HOPOI6UYPRoMlvHl
 SUMMARY:[HULIAS] Exhibition: Phynance Argothique\, eller: Slangenes velsign
 	else (Marius Engh)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210813
 DTEND;VALUE=DATE:20210906
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
@@ -225,9 +225,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:AOwFDO5XgmkONmqywyg1e
+UID:PmCn_hr8td1b7Dmt5cFQf
 SUMMARY:[HULIAS] Exhibition: Lys er bølger i mørke (Solveig Lønseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220304
 DTEND;VALUE=DATE:20220328
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
@@ -238,9 +238,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:d_A0U3xz72t7cajaiZyND
+UID:5sJeLp8XNef-qJ2c8S7RV
 SUMMARY:[HULIAS] Exhibition: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230303
 DTEND;VALUE=DATE:20230327
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
@@ -251,9 +251,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 END:VEVENT
 BEGIN:VEVENT
-UID:0GlT175tN8Sq3qt5GYet-
+UID:wV9L8voqIX0ivkO8KGUqX
 SUMMARY:[HULIAS] Newsletter: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230522
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -263,9 +263,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:M6aKHPVc8roMXwxOjkoo7
+UID:PvzX44K3IMoAzxKZbqtkh
 SUMMARY:[HULIAS] Poster: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230501
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -275,9 +275,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:ie4xT7P0lbhW-Qn2K4wbz
+UID:se3Yk_bko4h36WhMx6hx7
 SUMMARY:[HULIAS] Poster to Print: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230516
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -287,9 +287,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:3tpBL0ihHnRDgKOMS7E0X
+UID:6d0svhQQUnXg442u1OW3Z
 SUMMARY:[HULIAS] Exhibition Title Deadline: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230426
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -299,9 +299,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:-gdror0OPSg-5sLOMglsD
+UID:27oTFw3oCySQd2wCLjfB8
 SUMMARY:[HULIAS] Catalog Bio Deadline: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230509
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -311,9 +311,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:H1l1eYE2GA37Z_zCdSDNG
+UID:oMw29gGDar8IVg5nI6HS2
 SUMMARY:[HULIAS] Install: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230510
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -323,9 +323,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:LB3VLaNJxbbDzBBberI4V
+UID:krcgEPqW9VHQfzQfaI1Vl
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230522
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -335,9 +335,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:o0jFxyyHNcVEra_0r_M2E
+UID:jWJ4VvtEURJx4JKKvaTJZ
 SUMMARY:[HULIAS] Install Deadline: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230524
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -347,9 +347,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:jEc0ap6WjAXx-VcuUwlfI
+UID:cOhI0y3mQsKKz2zkW82ZY
 SUMMARY:[HULIAS] Photo: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230525
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -359,9 +359,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:oVeo38vOHpdl5AI1e7gf9
+UID:BSScbWOPGpmDQWZ6WTvem
 SUMMARY:[HULIAS] Uninstall: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230619
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have 
 	a public page.\n\nProduction Page: \nhttps://www.hulias.info/prod/0acc4069
@@ -371,9 +371,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nThis exhibition does not have
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:VeESlZqxNzpwHJKRR-2Vg
+UID:RdSz4C1gPcNAzpXO-zFIJ
 SUMMARY:[HULIAS] Newsletter: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210913
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -383,9 +383,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:uobG055PT3mhjFNXKOAM0
+UID:ZpMdAYS3VgxusYyEIfml3
 SUMMARY:[HULIAS] Poster: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210823
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -395,9 +395,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5jxPazxUOGhteG2yp858_
+UID:lunJ86-d5tks2jO32-vwa
 SUMMARY:[HULIAS] Poster to Print: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210907
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -407,9 +407,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:km1GDN3JSizrPTvCAEZuU
+UID:w5AcIf7aJsHnpWS196Tqj
 SUMMARY:[HULIAS] Exhibition Title Deadline: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210818
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -419,9 +419,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:jqvAfxuxX5gne5qTIMaqk
+UID:LN8PfUejHL71mK7GJzLQL
 SUMMARY:[HULIAS] Catalog Bio Deadline: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210831
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -431,9 +431,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Wgij4NpGoQglINVeVPtYN
+UID:vy7Palr7YyuekNs5rIQgH
 SUMMARY:[HULIAS] Install: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210901
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -443,10 +443,10 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:kV9PRCrYSCp0gGRrgxz5P
+UID:KgmKKeCB9ap2vFy6AgPpb
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: ... And Slumber M
 	ight Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210913
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -456,9 +456,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:EbqgUvRp3pVO0dokuKqFt
+UID:SLTmIktMUlpoNDuPlwnfm
 SUMMARY:[HULIAS] Install Deadline: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210915
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -468,9 +468,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5hDstF5wpaXiCww0jQSRz
+UID:bAS9pdKBX9UI9y5h3rys6
 SUMMARY:[HULIAS] Photo: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210916
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -480,9 +480,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:7hQKLGmZgo8ABWrbFg4CI
+UID:LUjfaOCqgCcliTbyT6Ugc
 SUMMARY:[HULIAS] Uninstall: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211011
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/and-slumber-might-return\n\nProduction Page
@@ -492,9 +492,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:vbXt5AfZREUN3_c-dmbAD
+UID:kjJEpo0iCePDID5g9nnjx
 SUMMARY:[HULIAS] Newsletter: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220117
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -504,9 +504,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_sWA0MB8R6hFz3Z1taHU5
+UID:Hvy7ZwNMZe9abpLh3Efhx
 SUMMARY:[HULIAS] Poster: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211227
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -516,9 +516,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:QjZcHTGvh0DXg1c5PnI_P
+UID:Xvc-JUj-UWuPe7EEpW07l
 SUMMARY:[HULIAS] Poster to Print: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220111
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -528,9 +528,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:R6kSxnjB1s54oJepa8SQR
+UID:64DAECA1Vgv2hxUpba9-d
 SUMMARY:[HULIAS] Exhibition Title Deadline: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211222
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -540,9 +540,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:aG2_Mi5cnuwiuHCZsD3po
+UID:NMsyPvoSFSGDjCyNICJqq
 SUMMARY:[HULIAS] Catalog Bio Deadline: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220104
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -552,9 +552,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5isOVEPqw23k3AI5rgCeR
+UID:kC_YwZoUJ_eWF7ecO6QTc
 SUMMARY:[HULIAS] Install: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220105
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -564,9 +564,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0A9_mllwL8SLB-i9B0Hng
+UID:jQIdutKlRhXg1P0MQ5J4p
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220117
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -576,9 +576,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:LDdHgrPxBIfRh5s3V0RmF
+UID:r_4hp7C0JR9xQGMo0xEUc
 SUMMARY:[HULIAS] Install Deadline: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220119
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -588,9 +588,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:4kMGll9s8d4XXgbkDxYt-
+UID:a9cru350R4Mv40lyWRqwl
 SUMMARY:[HULIAS] Photo: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220120
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -600,9 +600,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:AI7WuSPFC2Qz42p68l4nI
+UID:ysJQRkYH-Pg1ThaXjtlnR
 SUMMARY:[HULIAS] Uninstall: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220214
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/himmelen-og-treet\n\nProduction Page: \nhttps://w
@@ -612,9 +612,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5sCrVRZ0KuKOt_LAsJ_N_
+UID:pzkoa2VHcnZGCvt52-0k1
 SUMMARY:[HULIAS] Newsletter: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220815
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -624,9 +624,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:UobpBdgFaOEU6x9FvXgbs
+UID:hlqqC0D8hmqqiqxesrFzx
 SUMMARY:[HULIAS] Poster: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220725
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -636,9 +636,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:6xjN1w4Hc3eb071QjfKn2
+UID:isQbKZuC7IcqWygKw_MmF
 SUMMARY:[HULIAS] Poster to Print: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220809
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -648,9 +648,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_wabaA18WppKwrgEdr4g0
+UID:c_RMV7L8IL6sZ6yASBhT7
 SUMMARY:[HULIAS] Exhibition Title Deadline: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220720
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -660,9 +660,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:z7h5bjjARGKxEWIPuMQpd
+UID:CQnMpeYDZ0_d6UxyRLMP4
 SUMMARY:[HULIAS] Catalog Bio Deadline: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220802
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -672,9 +672,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:itjc_cas_PutL2v-x83xU
+UID:DyXuNNzDCExN4G4n5nEJ3
 SUMMARY:[HULIAS] Install: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220803
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -684,10 +684,10 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:emCQcjNEVKXFAjtDCbUUe
+UID:wWWjP_OQUzeQ0fMn6wnl-
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Lediggang & Tullp
 	rat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220815
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -697,9 +697,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:8nzDvaniy_ngoI_oFjVUg
+UID:QFIZLJRFfliCaZXT5G0dj
 SUMMARY:[HULIAS] Install Deadline: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220817
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -709,9 +709,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:xjpccOqWOgqTFkSAKgyul
+UID:tj5sIAfq-du3mJQJMDNKJ
 SUMMARY:[HULIAS] Photo: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220818
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -721,9 +721,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:wKXbARv8WrlrKKjoF-OQI
+UID:yp0FLi28KMTAhxdEzDa-V
 SUMMARY:[HULIAS] Uninstall: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220912
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 	s://www.hulias.info/exhibition/lediggang-og-tullprat\n\nProduction Page: \
@@ -733,9 +733,9 @@ DESCRIPTION:Contact Person: \nMads John Thomseth\n\nExhibition Page: \nhttp
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:d7bRnlFHoIsAchy-8SXj1
+UID:q_2MzaFVdWH0Q2dREcLJ-
 SUMMARY:[HULIAS] Newsletter: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210601
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -744,9 +744,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:CBb4NbKRuMRohf2GAfdJh
+UID:XxsBLbDuAP5njyzZwo9nN
 SUMMARY:[HULIAS] Poster: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210511
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -755,9 +755,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:qK9LYVMDAJ5Ueg4HH7EWf
+UID:mRmZZ9ecyECK43HWShqQ1
 SUMMARY:[HULIAS] Poster to Print: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210526
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -766,9 +766,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:cG65VEInf0kfKCkKqGkf1
+UID:OkOdtd5OjLtbMW0sZWM6C
 SUMMARY:[HULIAS] Exhibition Title Deadline: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210506
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -777,9 +777,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:QyCgnrbWlbJ6cR7kx4mDj
+UID:XV2C9GaZEP6lWncdwj7Bk
 SUMMARY:[HULIAS] Catalog Bio Deadline: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210519
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -788,9 +788,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:MQjEQzOvFebwnBaCfI0r5
+UID:CUEvpg041_YROAsxBqXQc
 SUMMARY:[HULIAS] Install: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210520
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -799,9 +799,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:lirdwebP2b8aW-HzrT3oU
+UID:aS1a1qxE2YZv_1AS6r_4K
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210601
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -810,9 +810,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Ro7mbL9zrvLDLEWr0PZ_f
+UID:zKCZyT6XO7ZKkQ0Y8t0HS
 SUMMARY:[HULIAS] Install Deadline: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210603
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -821,9 +821,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:63NHwL2q0bxaLraIf98_l
+UID:3mAtVWw3jaKpupNKr08BB
 SUMMARY:[HULIAS] Photo: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210604
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -832,9 +832,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:yfc6ceUsDm3HoaFCxFybb
+UID:AgeOpXSTUYYmKOJ7lv11-
 SUMMARY:[HULIAS] Uninstall: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210628
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 	e-venner\n\nProduction Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-
@@ -843,9 +843,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/vi-er-din
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:N43WkLww1YVIdgls27Owz
+UID:5CYIxXtzC6EffWrc6BglS
 SUMMARY:[HULIAS] Newsletter: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221003
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -855,9 +855,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:TcqPqgdpj_rl7XvXi97dj
+UID:toE6AG6HqpuhTYvuj9QPG
 SUMMARY:[HULIAS] Poster: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220912
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -867,9 +867,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:TiJxKlSIPcLgsm3FH-ze9
+UID:fANuh3UA7_DI030UZ3o2t
 SUMMARY:[HULIAS] Poster to Print: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220927
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -879,9 +879,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:aeW8YmXwXvvVVZf44QSub
+UID:fiGKlAl28ISbjoUr_mqMJ
 SUMMARY:[HULIAS] Exhibition Title Deadline: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220907
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -891,9 +891,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Hh4T4lW98zrR0mmIc8TWw
+UID:d5SDyIYdhRy_K3QCKiY94
 SUMMARY:[HULIAS] Catalog Bio Deadline: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220920
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -903,9 +903,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:D4rCfpYmkrH1zpYlXh78t
+UID:zipJ83Aq-xKk4C9Ot95pI
 SUMMARY:[HULIAS] Install: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220921
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -915,10 +915,10 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:oe9C6Dz1JUKm4Ok2udReP
+UID:dOJTM1yPKYzx1j0wlTcfv
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Said the Snail to
 	 the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221003
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -928,9 +928,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:MEBfaKMEghBz3IU_emzAf
+UID:hlltLrRePcboC7y5lk3dw
 SUMMARY:[HULIAS] Install Deadline: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221005
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -940,9 +940,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:LnA-XnyAateVR_sCnrw6B
+UID:DH0zkm8iS1bQbTAi-3nlV
 SUMMARY:[HULIAS] Photo: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221006
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -952,9 +952,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:hNrDqoDY12PM7vg0Y7vR1
+UID:NONbTVxr1a3lnS7TZPlaa
 SUMMARY:[HULIAS] Uninstall: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221031
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/said-the-snail-to-the-human\n\nProduction Page: \
@@ -964,9 +964,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:cqij3T6hNZkdCPSXvpDyM
+UID:9KUJrmbWSnjlFgVuHZSaE
 SUMMARY:[HULIAS] Newsletter: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211018
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -976,9 +976,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:b62KwqFiVy_leSsVZMYBb
+UID:wkKSid9TKreXUK_wB5uYa
 SUMMARY:[HULIAS] Poster: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210927
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -988,9 +988,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:cBqRNVrzbjrXXWKDoqYHY
+UID:UdWlvaBN5mKvPNI3wr_Kz
 SUMMARY:[HULIAS] Poster to Print: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211012
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -1000,9 +1000,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:bCs8vMRIGu-7ia3jbvrKv
+UID:pb4RtX64ft89Q_Sb6ULe4
 SUMMARY:[HULIAS] Exhibition Title Deadline: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210922
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -1012,9 +1012,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:AbGjYK3tXdfh-_nU0j7PN
+UID:xiEAKoM1yKG_sqP5wJII4
 SUMMARY:[HULIAS] Catalog Bio Deadline: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211005
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -1024,9 +1024,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:nbUNP-WNpLquLOF2cB-YT
+UID:dl9njbglSFehX53NIw4hv
 SUMMARY:[HULIAS] Install: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211006
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -1036,9 +1036,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:KwhhEC8SAsVeZgyvF36Xd
+UID:HPFvfHkccs6cb3zTMTFWV
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211018
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -1048,9 +1048,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:RCxvviSNEHQ0MDsxx5zi8
+UID:NCC6tZ98cakZSuRsLau7D
 SUMMARY:[HULIAS] Install Deadline: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211020
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -1060,9 +1060,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:KOXEoBAytQ_pM4Ciwbgwd
+UID:lqyQnEmv84jaBp8oqLuuQ
 SUMMARY:[HULIAS] Photo: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211021
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -1072,9 +1072,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:wFHtnPSQFqvazdrBsEHPj
+UID:fdMriiq9CFtwerp7xFIrq
 SUMMARY:[HULIAS] Uninstall: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211115
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/the-grand-meeting\n\nProduction Page: \nhttps://w
@@ -1084,9 +1084,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:j7SKTulWlyasr9oyY8JBE
-SUMMARY:[HULIAS] Newsletter: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:bzpiu7vJKY_b9a_upeaKZ
+SUMMARY:[HULIAS] Newsletter: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230410
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1096,9 +1096,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:TlVU74XbsVb9bGlvRacbj
-SUMMARY:[HULIAS] Poster: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:sd_KVJLsV1BkSyUubcKze
+SUMMARY:[HULIAS] Poster: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230320
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1108,9 +1108,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:TPdTBIHl1YMfw3cCnCSXS
-SUMMARY:[HULIAS] Poster to Print: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:DIgNFD1GKDBC0CFOT0RIC
+SUMMARY:[HULIAS] Poster to Print: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230404
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1120,9 +1120,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:E5rR3nR9PxbXTqsxTrM6Q
-SUMMARY:[HULIAS] Exhibition Title Deadline: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:fCIK2fGsmhWSP8Mvru2mA
+SUMMARY:[HULIAS] Exhibition Title Deadline: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230315
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1132,9 +1132,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:aH4RSbiOvJBgjRT00wssi
-SUMMARY:[HULIAS] Catalog Bio Deadline: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:dKBet25-7fYpeqaUFTsiX
+SUMMARY:[HULIAS] Catalog Bio Deadline: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230328
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1144,9 +1144,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:rh_xzRp06KGCGzc6iWHrF
-SUMMARY:[HULIAS] Install: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:T1Zt2TntMd-K7e_hkht6R
+SUMMARY:[HULIAS] Install: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230329
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1156,9 +1156,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:NklqfLZ0up0b2d09G29cW
-SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:1RnE-vEIVavFXjSGLuL-v
+SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230410
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1168,9 +1168,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:fGN0CHBY9nnHe5xGt7m9P
-SUMMARY:[HULIAS] Install Deadline: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:3iim4KU1W74m4BGteRCm0
+SUMMARY:[HULIAS] Install Deadline: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230412
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1180,9 +1180,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:CSM5kT80-akwvO7DPtaKG
-SUMMARY:[HULIAS] Photo: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:8hRRP_JOpMcvttEdM7vsw
+SUMMARY:[HULIAS] Photo: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230413
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1192,9 +1192,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:RqqIMJI3I03uL26ml9KvG
-SUMMARY:[HULIAS] Uninstall: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:n3qk6qyYS9FbxnQmAgBPb
+SUMMARY:[HULIAS] Uninstall: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230508
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 	.hulias.info/exhibition/velkommen-igjen\n\nProduction Page: \nhttps://www.
@@ -1204,9 +1204,9 @@ DESCRIPTION:Contact Person: \nØyvind Bast\n\nExhibition Page: \nhttps://www
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:DYrlN-Omn8nCAkTvjwpZe
+UID:vN6_5l5fsmuNVJXDldWWf
 SUMMARY:[HULIAS] Newsletter: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201020
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1215,9 +1215,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:krj4G93vAj3tqWnNMMXic
+UID:9GqIoDuoaoxzQ-QWnsfK9
 SUMMARY:[HULIAS] Poster: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20200929
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1226,9 +1226,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:csJPAsrszn75p6790yOCD
+UID:jh1myPRphMTGGlRHex0pH
 SUMMARY:[HULIAS] Poster to Print: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201014
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1237,9 +1237,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:auiWivnJ1gXWaOveUpuN9
+UID:U6YbLRUpQ3ulGmIS4InmI
 SUMMARY:[HULIAS] Exhibition Title Deadline: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20200924
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1248,9 +1248,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:1uIEDj0zGlRZz7YbgH1b1
+UID:yJiWylu-azlOoAaPkbgkH
 SUMMARY:[HULIAS] Catalog Bio Deadline: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201007
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1259,9 +1259,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:duKVbh_q43mmfv7BgLonT
+UID:WY9PTlkoKl83f4ypd-s3J
 SUMMARY:[HULIAS] Install: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201008
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1270,9 +1270,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:gl2YFGdgbPPMqNlgoCBTo
+UID:MFg_8wMXTNkGty2Uqs7fo
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201020
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1281,9 +1281,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:38cSwRdJOKCG0J4-FRXCt
+UID:PeaQcx9UmwltIGM4lL0jV
 SUMMARY:[HULIAS] Install Deadline: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201022
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1292,9 +1292,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:GAUj5wkZ5x-4L1CAeC5d9
+UID:RLihHAteJzpGQbJpBju0S
 SUMMARY:[HULIAS] Photo: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201023
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1303,9 +1303,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:z-C5El-XOCjpSE3-gQGkc
+UID:3qh_VDC8bNMjTXqdppzir
 SUMMARY:[HULIAS] Uninstall: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201124
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 	g\n\nProduction Page: \nhttps://www.hulias.info/prod/557272db-d088-4b67-89
@@ -1314,9 +1314,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/subsistin
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:3rMLW09_qdwHKmbf7gt14
+UID:RSZ6eUQgMPPy6PVt4SnXc
 SUMMARY:[HULIAS] Newsletter: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230116
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1326,9 +1326,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:BrjMp6rnmPOdIUSvDb9Gh
+UID:3Bhv9bsVb3vqW1FuPs3Up
 SUMMARY:[HULIAS] Poster: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221226
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1338,9 +1338,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:FJT5SXyk7Vi7u4F0Br5LI
+UID:tneVsvlgwaQgtZl4e83Dv
 SUMMARY:[HULIAS] Poster to Print: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230110
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1350,9 +1350,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:gX-3DT2MYfIWEiZ7aZTDe
+UID:6jHHKUl0SNB3D6-7uD1L8
 SUMMARY:[HULIAS] Exhibition Title Deadline: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221221
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1362,9 +1362,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:E7YItUqxdW31_cniBeMeq
+UID:jdF13J11TdvI8lVOgCh4U
 SUMMARY:[HULIAS] Catalog Bio Deadline: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230103
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1374,9 +1374,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:l91Tmm9TBWpn1ZiEAVvdf
+UID:oJgBEbBSK8KmV3cr0wuAP
 SUMMARY:[HULIAS] Install: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230104
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1386,9 +1386,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Xw_Y6eFipgyDBvgcLvUAw
+UID:eDQ5ryd4_JuihXZ5iorh1
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230116
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1398,9 +1398,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:B6QNK8whce7cgOz6BuV5e
+UID:32vSEg1fqka7awEcXMTBs
 SUMMARY:[HULIAS] Install Deadline: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230118
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1410,9 +1410,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:szaWBogVwsGPl3D3hZz4Q
+UID:ghd61_fpUK0hH0c940vVK
 SUMMARY:[HULIAS] Photo: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230119
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1422,9 +1422,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:IXVzjaJkytVwXYhW4Jqxr
+UID:eIi_-i1grajwN3MGm3G4p
 SUMMARY:[HULIAS] Uninstall: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230213
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/young-spring\n\nProduction Page: \nhttps://www.hu
@@ -1434,9 +1434,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:dFLJ-f1pOliyS-EJv0O8O
+UID:v6mIm6n3Ra4dMvdJ6qrsg
 SUMMARY:[HULIAS] Newsletter: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220530
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1446,9 +1446,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:RBMS18oDyDQYlLcU0oO1_
+UID:a52b44Lzr6lql-6lC_IWm
 SUMMARY:[HULIAS] Poster: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220509
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1458,9 +1458,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:oS1RtXzQ78it7VMarfL_C
+UID:FcU-ekPno02IolTIPQ1PR
 SUMMARY:[HULIAS] Poster to Print: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220524
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1470,9 +1470,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:zVxccmftKFuhD-NqbzHaf
+UID:S7zrAy2ZXdxplGD9dAX8O
 SUMMARY:[HULIAS] Exhibition Title Deadline: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220504
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1482,9 +1482,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Imv0ASbieRSQa7xiTQ64a
+UID:ndgNgDxVssb3bqtWKpd1U
 SUMMARY:[HULIAS] Catalog Bio Deadline: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220517
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1494,9 +1494,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:etQY5pRGThzeSfOy8NUf9
+UID:-nYtcaFo4hSv-z5DCyDrL
 SUMMARY:[HULIAS] Install: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220518
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1506,10 +1506,10 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:H0RrjPahPnfBVD-oSi_fg
+UID:Svhiykk3BMQ2P5FzhMu2w
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Lounge for Now Pe
 	ople
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220530
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1519,9 +1519,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:NQIgEZLXK0MV5Es_nWfYL
+UID:gPDqWDvYmwUsk5WE8CBEP
 SUMMARY:[HULIAS] Install Deadline: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220601
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1531,9 +1531,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:RTLnixNWP_n6AsTFE-AYX
+UID:4F6-SCvFBQKi0ylVlakSz
 SUMMARY:[HULIAS] Photo: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220602
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1543,9 +1543,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:A4uD-GOm3oZ7c5p9LbSDO
+UID:xfPymcbkb7F_vXGGm-zAF
 SUMMARY:[HULIAS] Uninstall: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220627
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lounge-for-now-people\n\nProduction Page: \nhttps
@@ -1555,9 +1555,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:P5wakXMEPwGmAQBQ5KWVb
+UID:jItFUJiLV1zUC6RS8r1JS
 SUMMARY:[HULIAS] Newsletter: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201129
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1566,9 +1566,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:gcdYYcsSkTBE-FlN_reKu
+UID:c1Rffy0x0t0twEkOVZ_F9
 SUMMARY:[HULIAS] Poster: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201108
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1577,9 +1577,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:xS-0M4EBsuJHbijE6UFQX
+UID:tn60RWVwicgPIuY2HT-qV
 SUMMARY:[HULIAS] Poster to Print: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201123
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1588,9 +1588,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:QrgRiV9aA5IK86BIorga1
+UID:DNkyecUE-AqvRZgmKw37Q
 SUMMARY:[HULIAS] Exhibition Title Deadline: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201103
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1599,9 +1599,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:EeNBuFdtG9IeimKDpa2mM
+UID:MvTT8_ruyZhsW4dQFHkpR
 SUMMARY:[HULIAS] Catalog Bio Deadline: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201116
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1610,9 +1610,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:LJpKtfPaLISP29nLt9RLX
+UID:Jw4IL7ekOALmH_FH_imwg
 SUMMARY:[HULIAS] Install: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201117
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1621,9 +1621,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:vNzqbtTgeWVh-b7_5b82I
+UID:9oGj1aeuRAU0BWVe-vYgl
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201129
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1632,9 +1632,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:IJuNqjZ_inMQq6ftRICJI
+UID:KuFrZwK8k9Z0b-WmWa10m
 SUMMARY:[HULIAS] Install Deadline: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201201
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1643,9 +1643,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:rwvgByRRLzG8uX1TGEJJb
+UID:UKxfy5J4v4ArYTQHLXOMy
 SUMMARY:[HULIAS] Photo: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201202
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1654,9 +1654,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:3Yt9NRjJ9TMj0rJN3du6x
+UID:nbu5sArFE5ghbOPl3Z_Hx
 SUMMARY:[HULIAS] Uninstall: Quattro Formaggi
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210125
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 	ormaggi\n\nProduction Page: \nhttps://www.hulias.info/prod/9c3b997d-831d-4
@@ -1665,9 +1665,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/quattro-f
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:a9hK7qNE_4vcBI1ypGD6_
+UID:8X8tYysfb2EXjPgRBMdsj
 SUMMARY:[HULIAS] Newsletter: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220418
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1677,9 +1677,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:lU_XyX_L4ty0ASDL9etqq
+UID:jX43aCqBQVSnjLPLo12nN
 SUMMARY:[HULIAS] Poster: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220328
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1689,9 +1689,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:oY5G1L7BVqanUWgBJpUj2
+UID:NaMfoLa4zUHV0DDASqB9F
 SUMMARY:[HULIAS] Poster to Print: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220412
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1701,9 +1701,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Q6S3JaoQgRXSzlFBiefme
+UID:ROu-as0JyCrlhY2b3DpbR
 SUMMARY:[HULIAS] Exhibition Title Deadline: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220323
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1713,9 +1713,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:3OPLYMk2j5kHbVZlryoVo
+UID:umWNJM-oqEhPpysUrbiD5
 SUMMARY:[HULIAS] Catalog Bio Deadline: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220405
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1725,9 +1725,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0yYP-3iFZknZ9fhKm_AWO
+UID:ZanvwlHKLp9ByXZqaYjQJ
 SUMMARY:[HULIAS] Install: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220406
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1737,9 +1737,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:yTqGtxi2QqgSmdE84dnS3
+UID:i--I2Mkpy_DibCpWEl5ZQ
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220418
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1749,9 +1749,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:4fDB8CntB8K2LV_-plD8d
+UID:Wc95bJ4DhHghke76VYVo_
 SUMMARY:[HULIAS] Install Deadline: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220420
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1761,9 +1761,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:9AZp4tIxBVDVgDjIiaqO8
+UID:S7n9z7XM1YHWB05YSryVT
 SUMMARY:[HULIAS] Photo: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220421
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1773,9 +1773,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5G17Cg4AHT0t_y6GND8ci
+UID:tJy7b2R2cd-RvgbCg-g0v
 SUMMARY:[HULIAS] Uninstall: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220516
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/out-of-love\n\nProduction Page: \nhttps://www.hul
@@ -1785,9 +1785,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:XcquVp4gchXYt1k7GPyW9
+UID:3eIC92plapLImnlobFfPy
 SUMMARY:[HULIAS] Newsletter: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210201
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1796,9 +1796,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:cq8JOfDBAt-xRNQl20HUe
+UID:4aA9c_ee-RhlN3HHLmTsQ
 SUMMARY:[HULIAS] Poster: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210111
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1807,9 +1807,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:ryP5aavSh5DULJTzv0xaP
+UID:SUJk16KRx9Tfyi5b-Z8cf
 SUMMARY:[HULIAS] Poster to Print: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210126
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1818,9 +1818,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_Q7lWcFWcP2e8BW_lnhyg
+UID:y57VajMUN2ZL2wyiH8WS9
 SUMMARY:[HULIAS] Exhibition Title Deadline: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210106
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1829,9 +1829,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5gGHJQ0k_XUuT6BO0VtZl
+UID:I-BxPnFrptLMs6f2i674T
 SUMMARY:[HULIAS] Catalog Bio Deadline: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210119
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1840,9 +1840,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:EZ2OTU-dWM31McMkaYcu7
+UID:-xchuX1K6XUxl6lYY924B
 SUMMARY:[HULIAS] Install: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210120
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1851,10 +1851,10 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:BlP1tHitzPZu7YKPY1Gxo
+UID:lbd9iCH2LhUJoxsz2itXn
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Third Place Bonbo
 	n
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210201
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1863,9 +1863,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:6r4nz526eMWcU7pG4KKeE
+UID:ekrs7_NkfKKwbdA2kdLLh
 SUMMARY:[HULIAS] Install Deadline: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210203
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1874,9 +1874,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:xarcM65JaN6BFJqFaizUm
+UID:0KBctjQ9Vn4G2xlUQUNMV
 SUMMARY:[HULIAS] Photo: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210204
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1885,9 +1885,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:mDBuI40UwcqJKfLD6psPU
+UID:AR2OTY85f9gUyDlU6DcMw
 SUMMARY:[HULIAS] Uninstall: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210301
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 	ce-bonbon\n\nProduction Page: \nhttps://www.hulias.info/prod/c3d2b423-273b
@@ -1896,9 +1896,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/third-pla
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0hx-sKJglSlfTgelfRhd2
+UID:8dJYiZ4GjLEX5JEgXFCys
 SUMMARY:[HULIAS] Newsletter: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210504
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -1907,9 +1907,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:w9kRAiWXXm1VI47Z5oxtY
+UID:_ySrP5Y7OO5t9vHL_yKoE
 SUMMARY:[HULIAS] Poster: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210413
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -1918,9 +1918,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:bLePJFRsmDXN44fJZXSn2
+UID:tK3mD9N2j73qsNZ8YSFsF
 SUMMARY:[HULIAS] Poster to Print: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210428
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -1929,9 +1929,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:-fLTp0eD0tPHLNPL8QTfY
+UID:uM2AZjWpDwumjBF3fuvPH
 SUMMARY:[HULIAS] Exhibition Title Deadline: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210408
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -1940,9 +1940,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:SXDjUxS4_oqvjTpzlOW-Q
+UID:ZEpG6499qGu4D2FVPRpBu
 SUMMARY:[HULIAS] Catalog Bio Deadline: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210421
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -1951,9 +1951,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:JFYD4tEj6EdQ_hLHstFHI
+UID:gG7eJMwducTtrWiyAU5zz
 SUMMARY:[HULIAS] Install: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210422
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -1962,9 +1962,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:r8qkWDq5Iy6ZriX2REESP
+UID:klrnKmcOefs1zlu7WKjNF
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210504
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -1973,9 +1973,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:iCrhzjr58C3ua-MypQYE9
+UID:w_jOdMx9oDkmYJa57nCRZ
 SUMMARY:[HULIAS] Install Deadline: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210506
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -1984,9 +1984,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:PJN9ii0TtUzBEGGR_b4Yo
+UID:9KwJXmA103X7UAERQF6Dc
 SUMMARY:[HULIAS] Photo: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210507
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -1995,9 +1995,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:dLZU0jlLb4vIY1vPMG51e
+UID:Pfh5CAKxPN-kzRWj-d-vv
 SUMMARY:[HULIAS] Uninstall: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210531
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 	nProduction Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4259-b9a4-8
@@ -2006,9 +2006,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/schaft\n\
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:FQ5q_F1vTOKpH01GePrQE
+UID:lswZ2ldaONPHBmAEIQalK
 SUMMARY:[HULIAS] Newsletter: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211122
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2018,9 +2018,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:wNW-l1zJk9hYo6V56cZYm
+UID:S-INsAo2lX35yvtjMLPpF
 SUMMARY:[HULIAS] Poster: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211101
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2030,9 +2030,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:joAkZwLuHahUwdZMwEhHN
+UID:xaAFG30IAX5iEX70btBdN
 SUMMARY:[HULIAS] Poster to Print: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211116
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2042,9 +2042,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:sHf9lZBfgotLQWcwvNsEy
+UID:m6IIG8sfHXTSYoLzSpyJy
 SUMMARY:[HULIAS] Exhibition Title Deadline: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211027
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2054,9 +2054,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:OjmtkQ_PQKmz3vnWVtaBx
+UID:ukLlIjPMs3_7JHyTzupz5
 SUMMARY:[HULIAS] Catalog Bio Deadline: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211109
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2066,9 +2066,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:LAvQhQNOtcseJtlkJnaH3
+UID:p6SD3GpCEoxZrhlKhEofN
 SUMMARY:[HULIAS] Install: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211110
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2078,9 +2078,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0-W1eM_y9o_NkbmgE9gCc
+UID:P-bkOp57SZB1QNmFnS6_-
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211122
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2090,9 +2090,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:OS-8-mtBDkSl7E6Zkghsu
+UID:1S8fQmMgE3t8YfIA_wLBu
 SUMMARY:[HULIAS] Install Deadline: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211124
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2102,9 +2102,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:JvnTLe-99DoCLLEIfifDk
+UID:KgUPuw674gq0wCstV66O3
 SUMMARY:[HULIAS] Photo: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211125
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2114,9 +2114,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:slTvypV5_iKY9PhfPJ35i
+UID:NTMYESF03UL42RAkxqNMv
 SUMMARY:[HULIAS] Uninstall: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211220
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/savage\n\nProduction Page: \nhttps://www.hulias.i
@@ -2126,10 +2126,10 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:JOC1ex08_My7sxzHIJ4Ci
+UID:Bt2_bHdHXS5wQqmizgh40
 SUMMARY:[HULIAS] Newsletter: Phynance Argothique\, eller: Slangenes velsign
 	else
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210809
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2139,9 +2139,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:3-Cr3ic2uzUu7gN7eyaIN
+UID:BTDk60mCLgWSzVv0zFp7C
 SUMMARY:[HULIAS] Poster: Phynance Argothique\, eller: Slangenes velsignelse
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210719
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2151,10 +2151,10 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:uOKLBboMpp86V-AxHLM9V
+UID:6eLBP_eZ24oUeCa0nRJ1m
 SUMMARY:[HULIAS] Poster to Print: Phynance Argothique\, eller: Slangenes ve
 	lsignelse
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210803
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2164,10 +2164,10 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:7m_6qE28U2IvxwQtdekS9
+UID:1oQSxw3K_d8zxb_pw-qjS
 SUMMARY:[HULIAS] Exhibition Title Deadline: Phynance Argothique\, eller: Sl
 	angenes velsignelse
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210714
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2177,10 +2177,10 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:XqzsCQgzAqSrAJLUjRr7s
+UID:ftuja8mLC8S9Pi4xr8BGQ
 SUMMARY:[HULIAS] Catalog Bio Deadline: Phynance Argothique\, eller: Slangen
 	es velsignelse
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210727
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2190,10 +2190,10 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Q9w8KyZOQQqiWkvfPXzoT
+UID:rJ6DpAzHSn6WrlnJpMXJF
 SUMMARY:[HULIAS] Install: Phynance Argothique\, eller: Slangenes velsignels
 	e
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210728
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2203,10 +2203,10 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:b39ztPE37fBswgIO-UIIz
+UID:X3DM4tOvhI-lTIAa7irsI
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Phynance Argothiq
 	ue\, eller: Slangenes velsignelse
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210809
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2216,10 +2216,10 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:kaRL1ecsqGFKyzTdglhzB
+UID:5eD1XU7-Q0r40nOmTXlyR
 SUMMARY:[HULIAS] Install Deadline: Phynance Argothique\, eller: Slangenes v
 	elsignelse
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210811
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2229,9 +2229,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:lY03RCbdwYA9HpObr1Dqs
+UID:rTL2scyu9pkiuadMnE-ae
 SUMMARY:[HULIAS] Photo: Phynance Argothique\, eller: Slangenes velsignelse
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210812
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2241,10 +2241,10 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:V5OyWWeQ3hFpIaMaFk6WX
+UID:n1B1JiZQmBhNwd9bfF03b
 SUMMARY:[HULIAS] Uninstall: Phynance Argothique\, eller: Slangenes velsigne
 	lse
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210906
 DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 	argothique-eller-slangenes-velsignelse\n\nProduction Page: \nhttps://www.h
@@ -2254,9 +2254,9 @@ DESCRIPTION:Exhibition Page: \nhttps://www.hulias.info/exhibition/phynance-
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:mz1trNL2v9BQpLYAi2F8F
+UID:SQmyZb2rDP5McIJiq8sgl
 SUMMARY:[HULIAS] Newsletter: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220228
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2266,9 +2266,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:16ZInhNrL2I_-EeS3siiu
+UID:yCiQnnQJP5fAfMEY1Z699
 SUMMARY:[HULIAS] Poster: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220207
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2278,9 +2278,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:zkwfL9uesNmlmUwIzXiYq
+UID:TePJJDgonRGkTjFzAwlvF
 SUMMARY:[HULIAS] Poster to Print: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220222
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2290,9 +2290,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0J-yJZuJ6wesy8rfqnOL-
+UID:U0-fNsBVyqBEIjQyxOt_l
 SUMMARY:[HULIAS] Exhibition Title Deadline: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220202
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2302,9 +2302,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:QGIXzWAGcvdOXY7Nup3EQ
+UID:HphSM26o4TJYZmdZJTVkM
 SUMMARY:[HULIAS] Catalog Bio Deadline: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220215
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2314,9 +2314,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:2oy5mZmsGq4ZoZPaXgJsP
+UID:WQuFAL7zXul4KedYsCSwI
 SUMMARY:[HULIAS] Install: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220216
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2326,10 +2326,10 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:L3EEQ6J5Atn6m6YBfWIk7
+UID:vXz1Inh0Lt4G-R6mZwX36
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Lys er bølger i m
 	ørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220228
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2339,9 +2339,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:1v-kja6EmPkLWcHKcBbRi
+UID:WLnPFVMRDxlxpeLxtGKWA
 SUMMARY:[HULIAS] Install Deadline: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220302
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2351,9 +2351,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:CrwDufMb_k4ub4fubavn-
+UID:Ul0mFKi0Sw1DjZ__d07j0
 SUMMARY:[HULIAS] Photo: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220303
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2363,9 +2363,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:luuYhVdi5sFEDej2rqjYh
+UID:kLHYT8ZLyNhgcTVrbGqlw
 SUMMARY:[HULIAS] Uninstall: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220328
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/lys-er-bolger-i-morke\n\nProduction Page: \nhttps
@@ -2375,9 +2375,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:wUY1MHLoVP8ZKXFv-pxyZ
+UID:o9UxJeWtgJja1QvIfQoKJ
 SUMMARY:[HULIAS] Newsletter: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230227
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2387,9 +2387,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:dixtVFSREXkcz4LsgGQpj
+UID:TgmxsrNDEc9aZJIdtuBkg
 SUMMARY:[HULIAS] Poster: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230206
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2399,9 +2399,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:3GXhqNDBaEiqa80PAA9p9
+UID:GNt7sMFbNHa7iiyzDrPFH
 SUMMARY:[HULIAS] Poster to Print: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230221
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2411,9 +2411,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0F85krMJz63zbYLUiZCPg
+UID:3kDtqMKIaS8dTbO6OLvNS
 SUMMARY:[HULIAS] Exhibition Title Deadline: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230201
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2423,9 +2423,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:6lUdIVtfHehv7E7R93vqt
+UID:dQpWuKHeBB6SAUQN8Qj-3
 SUMMARY:[HULIAS] Catalog Bio Deadline: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230214
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2435,9 +2435,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:aZDPxcyTBX5y9krsS90pG
+UID:SEhLggs1nmVTdlwNQ25Qr
 SUMMARY:[HULIAS] Install: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230215
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2447,9 +2447,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P15DT
 END:VEVENT
 BEGIN:VEVENT
-UID:lSsfGO9DQ0i7zJICKj4PK
+UID:5daofgWHAi8PJ5kafX8pI
 SUMMARY:[HULIAS] Catalog Text and List of Works Deadline: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230227
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2459,9 +2459,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:e7c8PrWQdtoV_3YPsDVdj
+UID:rRt-5qx7R3jWv4ux-uap3
 SUMMARY:[HULIAS] Install Deadline: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230301
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2471,9 +2471,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:DqVxdlQRAZx1MeqU2oxCr
+UID:FVS3d8ROhtJAB7g6eZCMS
 SUMMARY:[HULIAS] Photo: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230302
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2483,9 +2483,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:RwLz-RIcahLw0yly_pMZ5
+UID:OlQ5fkDHQJcvyCRBli26o
 SUMMARY:[HULIAS] Uninstall: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230327
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 	w.hulias.info/exhibition/030323\n\nProduction Page: \nhttps://www.hulias.i
@@ -2495,9 +2495,9 @@ DESCRIPTION:Contact Person: \nIsak Wisløff\n\nExhibition Page: \nhttps://ww
 DURATION:P2DT
 END:VEVENT
 BEGIN:VEVENT
-UID:G6S1AM016U0Lo2rku8g-C
+UID:on2f2F7nvdcWe4jJL1FR3
 SUMMARY:[HULIAS] Artist Talk: UKS – How To Practice? No. 39: Max Hannus
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20220919T080000Z
 DESCRIPTION:Edit Event in Admin: \nhttps://hulias.sanity.studio/desk/events
 	\;2022\;03aeda28-93ff-45ac-91c2-31d8c627ba82\n\nhttps://www.hulias.info/ev
@@ -2520,9 +2520,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:wPAxPMC9Q2XkZZVc5P-gX
+UID:75_s73vWFXLJqGvHKCKW8
 SUMMARY:[HULIAS] Opening: Schaft
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20210508T100000Z
 DESCRIPTION:Production Page: \nhttps://www.hulias.info/prod/cc07fcc2-771b-4
 	259-b9a4-8783e38fe734\n\nEdit Event in Admin: \nhttps://hulias.sanity.stud
@@ -2532,9 +2532,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:yHXCWY3dqoaLacsEr80zC
+UID:uUBs0sR7sQ4bqZogPmt12
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211031T140000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2545,9 +2545,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:FKmwQKWwpyMNLm10aHL2R
+UID:5hz1I84b6ucv8KWqdqe8X
 SUMMARY:[HULIAS] Opening: Savage
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211126T170000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/ce0341df-e789-45cc-b785-523125d21237\n\nEdit Event in A
@@ -2558,10 +2558,10 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:BZRC9CtAvi4lubO8KoPM6
+UID:e4JRQ62kcNBnrb3hUiY1X
 SUMMARY:[HULIAS] Opening: Phynance Argothique\, eller: Slangenes velsignels
 	e
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20210813T160000Z
 DESCRIPTION:Production Page: \nhttps://www.hulias.info/prod/d6bb956c-5dc1-4
 	690-819f-7cc14299d19c\n\nEdit Event in Admin: \nhttps://hulias.sanity.stud
@@ -2572,9 +2572,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:jB-_IlqRuPZeaQmJz7toU
+UID:3TZEr2tYiVgkmg4Y1nnz4
 SUMMARY:[HULIAS] Opening: Lounge for Now People
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20220603T160000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/6f4aef87-2e04-4dd2-81a8-a71e8ce2e57a\n\nEdit Event in A
@@ -2585,9 +2585,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:-SRkBB1rMvL9JwXGQ2Rp5
+UID:IjeD8mu-zts68-AcSkNG4
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211024T130000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2598,9 +2598,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:fae2VXMq-LNg-yf_PyhKH
+UID:HUahtM8mDXxPotpFdPHYg
 SUMMARY:[HULIAS] Performance: Nagaver – Kovillam (FR006) Cassette Release
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20221201T190000Z
 DESCRIPTION:Edit Event in Admin: \nhttps://hulias.sanity.studio/desk/events
 	\;2022\;54a02d64-250c-4dda-9de4-9964e13e5f74\n\nhttps://www.hulias.info/ev
@@ -2613,9 +2613,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:5aGILYqBlTHPgqkrd6v1o
+UID:vJ36fM0EWj3UbhxAADhLD
 SUMMARY:[HULIAS] Opening: Subsisting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20201023T160000Z
 DESCRIPTION:Production Page: \nhttps://www.hulias.info/prod/557272db-d088-4
 	b67-8929-9b47169a179e\n\nEdit Event in Admin: \nhttps://hulias.sanity.stud
@@ -2625,9 +2625,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:mes5EXW8bbI6r1gZJH-ut
+UID:Ek2fsKP42mLm5IxnCNJIW
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211107T140000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2638,9 +2638,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:gf4ZyrajCSNziG-MtShWe
+UID:ZXJlyMJOVOERwZrEYoM7r
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211030T130000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2651,9 +2651,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:I_zXUkCJ2mWbv0zwscoRM
+UID:IYzb7piLtRb7xOXKAI8PX
 SUMMARY:[HULIAS] Opening: Vi er dine venner
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20210605T120000Z
 DESCRIPTION:Production Page: \nhttps://www.hulias.info/prod/3bcd0bae-478f-4
 	86d-80d5-c758f86b68c1\n\nEdit Event in Admin: \nhttps://hulias.sanity.stud
@@ -2663,9 +2663,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT4H
 END:VEVENT
 BEGIN:VEVENT
-UID:_d60btjDJp2TsviKEfh4z
-SUMMARY:[HULIAS] Opening: Velkommen igjen
-DTSTAMP:20230317T115500Z
+UID:NE5lD4EX71o2eESsTotVh
+SUMMARY:[HULIAS] Opening: Velkommen igjen.
+DTSTAMP:20230317T120600Z
 DTSTART:20230414T160000Z
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nProduction Page: \nhttps://www
 	.hulias.info/prod/545de87a-6139-4f2e-91c9-5cd910ff0cda\n\nEdit Event in Ad
@@ -2676,10 +2676,10 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:cJnOxGZHUJg8ZfaD4Do6A
+UID:Vk19-3eqdlUMfsOBHI3zN
 SUMMARY:[HULIAS] Artist Talk: UKS – How To Practice? No. 37: Founders of Hu
 	lias
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20220829T080000Z
 DESCRIPTION:Edit Event in Admin: \nhttps://hulias.sanity.studio/desk/events
 	\;2022\;6af9989a-615f-4b73-ae5d-3e9eb9f17aa8\n\nhttps://www.hulias.info/ev
@@ -2716,9 +2716,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:aVJyCuzf0d_tMRgqIAFGY
+UID:hc9xvTfOKQFrfTGF-B7lM
 SUMMARY:[HULIAS] Opening: Third Place Bonbon
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20210205T110000Z
 DESCRIPTION:Production Page: \nhttps://www.hulias.info/prod/c3d2b423-273b-4
 	65b-a07c-095b093ec9ad\n\nEdit Event in Admin: \nhttps://hulias.sanity.stud
@@ -2728,9 +2728,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:TMU6BHzJArBwKMCIInwzz
+UID:rYel5zRkX-dCVFG9IPxMj
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211022T180000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2741,9 +2741,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:glhYogiAJsvGQNd4zwUjx
+UID:l6wak3qiuuXh6rgAWgkjv
 SUMMARY:[HULIAS] Opening: Lediggang & Tullprat
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20220819T160000Z
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nProduction Page: \nhttp
 	s://www.hulias.info/prod/36428af6-24f3-4512-8007-4ca8fbffbe59\n\nEdit Even
@@ -2754,9 +2754,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:Q188OWS6tr1Qk9KhioPeS
+UID:gzxz2Ahnqd9uVAvOe4MpB
 SUMMARY:[HULIAS] Opening: ... And Slumber Might Return
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20210917T160000Z
 DESCRIPTION:Contact Person: \nMads John Thomseth\n\nProduction Page: \nhttp
 	s://www.hulias.info/prod/12a75ada-09fa-4f42-9435-d55c6f5cf6c8\n\nEdit Even
@@ -2767,9 +2767,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:9asfd-bzhm9-i4mpZJwKG
+UID:2eMzOYO5qyVkkLwLHhr1x
 SUMMARY:[HULIAS] Dinner: Julebord
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20221207T170000Z
 DESCRIPTION:Edit Event in Admin: \nhttps://hulias.sanity.studio/desk/events
 	\;2022\;79c7d138-cdc6-41dc-96c8-c6f71d917079\n\n
@@ -2777,9 +2777,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT5H
 END:VEVENT
 BEGIN:VEVENT
-UID:1Mwfyxrh7_mk5RCpE4AW-
+UID:rpyDIUjom4w1D6LiB8PXZ
 SUMMARY:[HULIAS] Opening: Young Spring
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20230120T170000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/5e01154a-b0a7-45f7-bd3d-0258819842d3\n\nEdit Event in A
@@ -2790,9 +2790,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:qZOjry8K6-p9DwvlFMojF
+UID:5Tl7mrxpbhEMCLfWK1ufJ
 SUMMARY:[HULIAS] Opening: The Grand Meeting
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211022T160000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2803,9 +2803,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:QD7l1anVh20SYcPIF5Oul
+UID:IhvfhnuUen1ASJthq_H2_
 SUMMARY:[HULIAS] Oslo Open
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20220424T110000Z
 DESCRIPTION:Edit Event in Admin: \nhttps://hulias.sanity.studio/desk/events
 	\;2022\;82ac6248-758b-491c-b9e5-eb7d15defb37\n\nhttps://www.hulias.info/ev
@@ -2818,9 +2818,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:immbRSP78x1-bY_zmVveM
+UID:Q1x56S6z5dpZp2zWve33Q
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211114T140000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2831,9 +2831,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZJbytRVQpkBE11HPmG1KF
+UID:hmmsazJh2ysb9it0Jmwqk
 SUMMARY:[HULIAS] Opening: A K Dolven
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20230526T160000Z
 DESCRIPTION:Contact Person: \nØyvind Bast\n\nProduction Page: \nhttps://www
 	.hulias.info/prod/0acc4069-269a-4a47-93be-586e8ca94e73\n\nEdit Event in Ad
@@ -2843,9 +2843,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:zOloJx09XAhDFmLIRe26I
+UID:yeplCGRAtOw2k_dZ7tfYa
 SUMMARY:[HULIAS] Opening: Lys er bølger i mørke
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20220304T170000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/ea3a9238-4abe-429e-b9bd-9c845848ca79\n\nEdit Event in A
@@ -2856,9 +2856,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:MJty_eXjYVuvEW7o2ddO4
+UID:R_QokHO2RKSdTS1QDZqhL
 SUMMARY:[HULIAS] Opening: Said the Snail to the Human
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20221007T160000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/3c30aa9b-6896-4e6d-9595-3770f6326bb2\n\nEdit Event in A
@@ -2869,9 +2869,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:5GUGtiEQBxG-9oB3EsvE2
+UID:rlNN7mIdEy1a0Gs_7KCnL
 SUMMARY:[HULIAS] Opening: Mariusz Maslanka
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20230303T170000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/ed4bd78c-c1a1-4d5b-87f8-508d5dec23fd\n\nEdit Event in A
@@ -2882,9 +2882,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:nJEkUvbUyXS1Mw9ptdvgH
+UID:E7yU_AkMoqQgmk-asM-0h
 SUMMARY:[HULIAS] Summer gathering with Hermetiske Skygger in the backyard
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20220603T180000Z
 DESCRIPTION:Edit Event in Admin: \nhttps://hulias.sanity.studio/desk/events
 	\;2022\;adfe5acf-b40c-4e28-b20c-f5134e0a306c\n\nhttps://www.hulias.info/ev
@@ -2897,9 +2897,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:JCvYYZxLmfcvlMp6knmhG
+UID:77RWfjcMTg8TnsyklNt8m
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211113T140000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2910,9 +2910,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZgbACriT3tC9dUpLc7EhS
+UID:KyC7nbuC6w1LtJFCZ6har
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211023T130000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2923,9 +2923,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:PlwFd_KwnTFeTK2H_qQT_
+UID:ZDfcklo4n7caO6pz9COhK
 SUMMARY:[HULIAS] Opening: Himmelen og treet
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20220121T170000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/17d92c25-bf19-4c4c-b867-f5d48e9583c8\n\nEdit Event in A
@@ -2936,9 +2936,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:nU-h25HqmpeOuWYsJIBEM
+UID:H80ve8t5uN9QJFwfXLBIH
 SUMMARY:[HULIAS] Performance: "Untitled" by Cythra
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20211106T140000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/407fa464-50f0-4354-9094-3501b6f2ce27\n\nEdit Event in A
@@ -2949,9 +2949,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT10M
 END:VEVENT
 BEGIN:VEVENT
-UID:UyzdIzFFiQoSvD6VubelI
+UID:z_cBduhx332zJH6ON9vjP
 SUMMARY:[HULIAS] Opening: Out of Love
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART:20220422T160000Z
 DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
 	w.hulias.info/prod/b744b3e3-e20b-4b81-9df4-fa7af1cb88b3\n\nEdit Event in A
@@ -2962,1066 +2962,1066 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:oa7fpx3bI6ZIpheReeBhk
+UID:rhXJli7GPbcfDCQl0jLPF
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230527
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:2KHi8-wiW-4SmJa9qTH1h
+UID:CopEoPvrIlanFJqSeApxu
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230528
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:rOxGC8BMyvha1JHrWysm5
+UID:vhcU8ApMd7al2huCPBRy4
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230603
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:TgeDVwlH0aQiWwLk_BFtw
+UID:GAT4Si6qwJUv4n-KHo_Ii
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230604
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:V4JZ16h2Co8gzcObcd1q2
+UID:01AWEqzAXrzlq36PBmy0s
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230610
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_OgFMKR4IRGLI67FcQuF8
+UID:2awMYqjg8zkkb_nRYyGc2
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230611
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_3T_1JmmT4QCp6jbDXEhy
+UID:USAh0Hilfpy8nwgLwqChk
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230617
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5gya5aze5m6-9eWc_9Ws3
+UID:kAA4jHADLl2N83NdXZFjo
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230618
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:7qIIcKxt3CmfrRYHGiEY1
+UID:i6DBLmrspnK1guXSRkyxG
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210918
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:tWg-WCKwvQMLsxMMwZvSj
+UID:YIh7wYSF60yvH2x9DPi7M
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210919
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:TdYVRqFmG53bMNpjZyY8t
+UID:SKQDTve-RmBzPIccL1spS
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210925
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:882ai_029L2K8yYnjuXfg
+UID:erKfQUri0NMlh76U2DHfr
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210926
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:IzroQbzjEjhFYu_0V6duV
+UID:pDo5ctcAp1HjPwktcYJGc
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211002
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:3psVukSxu7XwqVnMLuiCx
+UID:G28XgaF2MEk5dFUgX2XJf
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211003
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:e2DgjAbm2gefflVU-mo1e
+UID:HMp9gk5dVrFXGqHzbJ36Y
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211009
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:4nsBu3amVeWd90fjC9q6r
+UID:azmEUSzbzRFH4b3B1EtTZ
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211010
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:O6VU7VVaRtE6f_hlckYDA
+UID:yYGIgme06JtbQzRH7ZEC6
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220122
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:vqThVLHrJtP3P_hr6bmmk
+UID:GxgDUWHWDh6F4MhLxI_E6
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220123
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:O-x5BZmtMKi4u6xFLh3_X
+UID:Uh1FNdsEcn7khTHsumIBK
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220129
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:--GLhU7szevh72klFkEYk
+UID:vw6OcVbQ8AF6ez93IIZwG
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220130
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:3bwMdPqG-iyWTyTEqLLQl
+UID:KGNXbMCrzUF-H6uNzKNQg
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220205
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:IkqCbMTcVy1i264oF-kAJ
+UID:i8d-0Mvy40rUyOWXo5bKh
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220206
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0lsf5leDBALEMhV2Xds7F
+UID:t2abVUGSCv2Sfh6Xy4yel
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220212
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:JP58fOiPfQVsPw-fD0MLw
+UID:6mP4WbF7XjAXNRJa0WBon
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220213
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:IfOSyyoLH0Ldf65Cv-HxR
+UID:eaioZvJQv81JCakGT1rkR
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220820
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:BiLR3pnUInPNScdvtHOHl
+UID:sG9u2lZuqzITPvhsbj-T2
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220821
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:9ynSoiyEO_RuqxvQ5IkC2
+UID:VsES_Gw_idkGzQZOoOPeB
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220827
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:-I1Y42E3ydH74FOX6XIyM
+UID:hQmCW-KMNNWcj8bccPEI6
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220828
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:QgfLMkC6I5EVHpv0t2WC8
+UID:p4ybCOKStP4G0__-az30W
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220903
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:SQ3EEvcpkT-Pckg7vpIEO
+UID:n-Wx8E5JlkSNiGyu2o3Jw
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220904
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:9SKBLMkUMDtbi3YpIpp0r
+UID:uuhrCkuKkGQ1tQLuJINsL
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220910
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:8w9m_CYiZHFHrPo_yE_vw
+UID:lY_JtI305BBReWPi80BBN
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220911
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:kp_E_k10F45HcY3KWz-J8
+UID:vzaYijtVOi8rdxBkgBBXj
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210606
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:k1ejEOMwpYmc84cilIjtb
+UID:ZMbnkQFvqsRh1yNbcK-gS
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210607
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:8t4HM9u8yOUb34ZAb_Dj1
+UID:WXoljddSihLuxPrxxsofF
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210613
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:k8rQ8_j8GYA88vUL8ceMm
+UID:rMnBy0pNNTDeQmgcVToTb
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210614
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:4HZpADtkXpvMlLmlOfyA6
+UID:IDWRb9NeTDDt0gVqPvgIu
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210620
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_y18RCgrvX3iCZ3EBVS2G
+UID:957o3d6f8Be1PJD1iJlBo
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210621
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Os8r2Ez5h5t9NfEkMB3Yi
+UID:wp6K4S0Y5b4H8GQVX6FBM
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210627
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:qx4FAlzws_OwNa8U7Civh
+UID:iaNeHa_8RjT_8epB1lNJg
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210628
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5_bJujJ9fazK0Fp8Hrhld
+UID:wJ0DTa90XTbKKVEOg_6m6
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221008
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:EJqqNnqkKfpXB4Cyw7JC1
+UID:UH5XRZA12GcPxT-nvWu24
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221009
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:kw6dAE98Oe36pypAfJxaa
+UID:Qjs7Cztx44ahX5EMdWpUD
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221015
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:-P6XGqPJ63eigPI93mdyV
+UID:6PsCtLdyIHGM9aaF3rkXR
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221016
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:9RpP-LIP-2JMIXXI7pzAl
+UID:k1DcXI0kTmj8HXPlUZwB8
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221022
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:H0Sde9HWP5DNF4RoBXYkR
+UID:bWdk5khzPGIz0KQ0NHLu0
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221023
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:bbFXnjvg_4HIiNHc2lyOO
+UID:IJ4zlRWpMTA1XVU2K8j4C
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221029
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:6GjlWL2dt76Mauu8rX1rB
+UID:q4IUennKtuDNjKGukiM71
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20221030
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:9eN-HHTZBuDanrOusXukG
+UID:_PKMPUkL1Ojf5zEp7v36K
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211023
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:zvdfWWBwRQ7wNpxO-oGNg
+UID:hDSHrF97gFMmRQZ6V6MyR
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:dyIPKjho3R-QsCooMYzdF
+UID:vsCPjQWUJSZ-b13bAXaTX
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211030
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:hR4o6_CJEOh5I9QSz3owE
+UID:ACEpHSUkNB_R9O9fOqFMY
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211031
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:4Th5JjUqI3Wi-yb2tkbgj
+UID:ypZghyI2P5CPoQVopf-1F
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211106
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:bCe8Tit3kKf0t7tDr-vyY
+UID:fqPgjl5NFFGwgHhO_5arE
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211107
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:K3zC4hOHtin1qs8IFGvim
+UID:wJJvKc-Yfs-stX3kM8lc_
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211113
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:fkWVSWintnZ8JwVqDa2Yc
+UID:xvUcQ86_vgY11EG-sWBtc
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211114
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:G_syGiMJNN-cTzOxY1jfM
+UID:jvp5di8cMnovcgYSLpmOM
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230415
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:-viwMxi6IvgNZnvgvvtml
+UID:GRT7-XalNDALhBrq-tvUd
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230416
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:4FeJPcDgqye644pGnCk0Y
+UID:YkWtwQRNxaBevlAPzolWs
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230422
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:gSHKoSZUm-UsOlm8JcqnX
+UID:xwkJPeJo9C25p55pSSa7n
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230423
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:xnNMe2dyvNhLaectXOveF
+UID:O195ZvmSh9T1PrpVG2v0g
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230429
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:nt4QDUBRhcflI30ZFXhIM
+UID:rh3t33YFiT3aYhL0m4hSs
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230430
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:RzSl2BihI3ECLDoTeoZ9z
+UID:8yNIwm2g3YvrG_2-IJiF8
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230506
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5WoYnL2fpSgqA5MnZbNdf
+UID:vrJHifoeLQutwN3_0jA5o
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230507
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:tK7oowYXIasvAkeTs9Zxw
+UID:Dy8TTiZNbStQc-u_N9fdh
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201025
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:4CV20bpNJS2gB14qosvyE
+UID:rHJOrk1D3laFAqJGned5Y
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201026
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:JhszeWzl3hY5Xhl_dhd18
+UID:etLTpwiLqN9z3CKSMIsHF
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201101
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:D0Qv6yVpPafk58LFYv5Hh
+UID:5Sg1cg-eDq_8-lQWclYxJ
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201102
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:g4gEjPL3sfZkzpAdyvvMg
+UID:U6NnPg11BNJJSRF7AODGb
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201108
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:z_JcsBRP98QoSLoR-wMxo
+UID:hqbZNXnpCHY9HoW0ZlJR_
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201109
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:YD2WCpaOv_Wb3lpJYzYPT
+UID:5Pc4TRIw5HKgS_lvaA8df
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201115
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Y-av1i_ePlWSfPNffPIQa
+UID:0zmZXrtcZmAuOlSODgraz
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201116
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:5rauFYjue5E01ao3OkVI1
+UID:xzmz4USaZhqq0UusKUmmW
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230121
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_6FOk38BI53Nb4NW9qloE
+UID:B840skYPimCKXBwtJoOQv
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230122
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_GkpzEheVFA7jHYlTCN_F
+UID:hM0LWr2ij-XYEQTY04Iof
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230128
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:l3GTPnSkV7OEc28SvmT-A
+UID:WWGWzlJ7lDxSC6n83SBr4
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230129
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:onf4UHGwmu8gy_cqhWMx_
+UID:ImTpgJzWIcloSxbfml0Tz
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230204
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:9ZFshG9rxTnMGxyR8IsQg
+UID:vqRNP_Swyy0-Y-Nh-L7NJ
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230205
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:liRLeCIPTpiCbsdHnk4VQ
+UID:83CggIC5ijyXH5QjWVRsW
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230211
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Dah4qoZN0J8-8PS8Hcn0w
+UID:D09JTnbFvzvK0NncY9HlF
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230212
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:cHKZnXLpoDxcOGWpT9qz-
+UID:AIniWLhCYI3FwSd1PJlN0
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220604
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:gfO5aUSPJ_fb8Vx2lBESi
+UID:8H8WvzcZKajoRszhgiKEo
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220605
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:PiNsJFA6_1n6s63xoDuWk
+UID:FfJxxUbbl7Ye8I1IFJA6d
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220611
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:V_Y45lwrdYK-4H8ADWIWA
+UID:AZbhTd2KOzuNdaQ3GAu7_
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220612
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:kbYEc_daoOlITN8UYIEYN
+UID:y5H0m4xX0JBtD_H0JPVmF
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220618
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:ADmP4pqo4ZmoRk1ZYSozF
+UID:bKFGwHmqFFWD6wf_WGPsg
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220619
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:eQJZcF9GzWMgz6d2IQWch
+UID:6hqWpgyiDEdvo_87dcuYo
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220625
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:AafgGipfuvpDRGR4cSwDS
+UID:7nX9ShAxansQUf3OuyWxO
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220626
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:TfV0Dn0NrkVgP3g4NxNUb
+UID:8Ym9zlncSXM_-8PZ_oTQV
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201204
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:i7im2VGwIRAjkE-qYFW7r
+UID:9ZT9burb9lhi5Hj4SPsIT
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201205
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:dy36Y3O74bEGcfrUua9vG
+UID:hxO1Etdmy5CxCEHf8ujLL
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201211
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:SqdOI60jK5DAb3J3hQY7p
+UID:9p3sID2VKcMNi1p8XRkoi
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201212
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:XMqCv9Tlt0e-HnwCCiIZ5
+UID:5F_2zhAiBcezgSBLQh53q
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201218
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:tpgxlN-on_ZCPC9DC6q9L
+UID:L4xFH-awTpBE832NkcCuK
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201219
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:renYkjD2VFGpjFY8h6mbQ
+UID:6dxGyA3-H2WDfX4pyxzi-
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201225
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:kzM9DKl1uKf1P_ec3ITei
+UID:xUT1gXYVSElzhZgUIkT91
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20201226
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:tpzTYz2FhGQWI1NyRokYW
+UID:wMXSopnxtnad0w_cK4rCR
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220423
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:HFCHSE-I-yBwndHzqi_dv
+UID:KONEI2f7ZxvzxbIbxSbDI
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220424
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:jArdIvgdvyjS-HSaklkTg
+UID:-xW-nySezQoYA86z-QKDh
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220430
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:PNsZXgVlxbq_FAiptK5qV
+UID:LzQ4TVARaaLzuqw1c-3GC
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220501
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:RSdAFFagjjYJe_CFfPTX5
+UID:vN3nvVQ06t7nrzqbCdgy-
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220507
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:OM_5QdyWPwO68d0NBbarx
+UID:iyzKufjy_hAkLcsNeTY7I
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220508
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:xhTd8Sx9T1ExsxWjGP4zU
+UID:8PPpxJaiKJwQG8kNz5iUz
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220514
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:pQ3yAfyoGCj1lKsdTqE38
+UID:DG-kXKd6yV18iV_SSItXm
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220515
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:1-1-ZplgG7Lrm71MwB3Dn
+UID:w-6PQoH5UsLTx_0VbuXlE
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210206
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:rATm60S3-HNpyO05sZkpo
+UID:bz_asWlMSaoqHhOIgeWm_
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210207
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:KBtvAdl4FZwTA_B7jVhbN
+UID:pMXsfRvuOYQbmjgMwKPey
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210213
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:O39kNzGmNK4xDdZE9PBDt
+UID:E0Bg52TBWt4DRMOv4Syrw
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210214
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:hkD2WRiJ76jiwegWXe40h
+UID:KLDPeerOgHkUv4_BNhsqm
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210220
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:KDlb-9vOSaBMZo23ZEsjz
+UID:dycnGr8vcZW358J0bhurD
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210221
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:CmTvQmYIPIOq5e2xjhTMu
+UID:Om-gPoylaVJ7ElXlXchSh
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210227
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_vk_12dI28Puxkm9nhqGV
+UID:sKtmKS9SUEIuekrUtvicv
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210228
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:f934oyB4LRLVrSADCZX3d
+UID:8eRL9lMJrd8FqLLU-wnKg
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210509
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Oto4NuPY3u7Q169NZSdLW
+UID:lcYSaDxhmMa7Oj5yxewbc
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210510
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:kzW2dd2Ymbi_YoGT9ZCSF
+UID:R7re0kGAkI5GIUl4pB0Eo
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210516
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:AeIGUwGii85LjWFBIGyVY
+UID:DQCwCryDpHnMQ3g0Djdp9
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210517
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:zBFfhnrhdgocAiBnXx4oB
+UID:SdOQ8qii-rQ57CqlHM15K
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210523
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:kcyePHBST29tr_QD1wMP_
+UID:fs00pVZsJg3LHMD6MxFRH
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210524
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:i0wHy8rDi0aaCV_ViTmLp
+UID:ftTjdTH3kt-F60hVNxc1N
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210530
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:VJoEig8IZnZdA6KHE55x9
+UID:WyeQuo9hTHdHwpPrVLJmG
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210531
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:pfq_eoO36hvSEJ6awAcPP
+UID:LUfWSU1MuyhHK9k8XhU_t
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211127
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0lC0zjLUZt7LplxIGuq-K
+UID:wrpG6Ph4ACIwusMTlOj-V
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211128
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:XhFjGyWFKmDuuOxEJgMlp
+UID:7BujKlrzmT_te-s-zIvCB
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211204
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:o7TDajAx7LH334JzL6uSZ
+UID:6ENZBR2IfGa7udp1oLvos
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211205
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:NuIVdfyGAm7EnWO6Xkfip
+UID:rI-5FubSErOo_a0H3PyZb
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211211
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:ZLm5ch89VcBVo9F6kSfcD
+UID:x7hocFuZoqOtTDU9Eevfv
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211212
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:aKMsULvvCFM51yXvT4Tn7
+UID:1_jRN7TdCXaUHCYIK1hrZ
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211218
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:3xEiF5TdUDoAuokXiotMf
+UID:v-V_JxvbJB73_5lKxVtmJ
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20211219
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:6fZnAZjKdc-opYx4ILz2s
+UID:XBNxteGLPKY5naC2azR8r
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210814
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:HUjiZpjKZ1C-zVs2Y_q1i
+UID:QpFyDarquzBZZhwkwnwac
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210815
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:9mR0A2j24n4w429N-3hpN
+UID:orjnBNc-tMr35uila65SE
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210821
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0tkTwSkg_g7LNNJFDSTqi
+UID:teW7ktdKKVLiqcgxAnpIk
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210822
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Tyr7DEcHDJ9XFMMdufX9C
+UID:6Ll_ilbmHXSmtr2pTBidb
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210828
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:am9UDrhyoxvpEI4eZWBdr
+UID:IX-bSoaxgKhAvSL9gmyyS
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210829
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:-_oVZzXRNAER860WJtNg2
+UID:qtPqcd2w6bfLHCdD6Dydo
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210904
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:sGgefFmJjvHxotLr8cDpd
+UID:Q6b5hhTxBA_1RQjx1HOZT
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20210905
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:jVWntW46PILaV8aHOnytv
+UID:Xh4ov-_R1_YspSx0vsCat
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220305
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:6AUxDTEU0qyqxFZpJ8WbJ
+UID:ay6lj5HQ_DhYIg86OmmP3
 SUMMARY:[HULIAS] Open (ØB)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220306
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:MofJtFm6ndg027vEzSFTH
+UID:P8r5_ddaK6zD0Ao1fvmx7
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220312
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:CGBTdTjYbWob-mYDlf-ZE
+UID:MQT9wMQTBCskdMytjS6M5
 SUMMARY:[HULIAS] Open (JA)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220313
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:8pzbSKYGRrHhm6X4QNfbv
+UID:qLO0U8e8rS204Jh9RLo00
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220319
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:_I1UL3hK085CyP-U2JCTU
+UID:9ofAqeQ_B5rZh_T1HkbGt
 SUMMARY:[HULIAS] Open (IW)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220320
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Fd6zcGrzYZyVVbjX-1xIt
+UID:tVZAeeKpxIZQN5thGkbAL
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220326
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:vFU4lDT0yTr9VuMWsA1pX
+UID:bR0x5buxPO69NGU8M6im0
 SUMMARY:[HULIAS] Open (MT)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20220327
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:hyvqjBy2URUE6Boe6xrpj
+UID:JN588siLw3L-tB7h6Anam
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230304
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:qw68fX-t6hB5cCQjyQaRL
+UID:58Dacd7PLyAAAJgOMHXm9
 SUMMARY:[HULIAS] Open (Isak Wisløff)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230305
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:0gL4G1S28Z4YbxktC6MKD
+UID:RXBTJr7HIiOMek3O5z86U
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230311
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:gB8siObS8H3JWUhDlSCRH
+UID:4EwqbZ5NK8-uH5nR9aGic
 SUMMARY:[HULIAS] Open (Øyvind Bast)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230312
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:GgybmoNRCSqkyeMTNatNf
+UID:IgRL1ygeGzNobr93wi_i7
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230318
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:WyTRj5oNgY_d-W8gzmrPF
+UID:cxPuzm0fCp99pSsKvikkA
 SUMMARY:[HULIAS] Open (Jørn Aagaard)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230319
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:PAF2Iol45qE4SvxJgSbCV
+UID:yfovoefDMiuu_iHpJJCYU
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230325
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:Nuaxsd9ghi5WUSa0ofDRU
+UID:wPxCqsqiZvelFeFMGebuC
 SUMMARY:[HULIAS] Open (Mads John Thomseth)
-DTSTAMP:20230317T115500Z
+DTSTAMP:20230317T120600Z
 DTSTART;VALUE=DATE:20230326
 DURATION:P1DT
 END:VEVENT
