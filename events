@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:pU0r28hmcrF9REC54wFAi
-SUMMARY:[HULIAS] Opening: What Will the World Be for My Sister – What Would
-	 the World Have Been for My Sister
-DTSTAMP:20230526T091100Z
-DTSTART:20230526T160000Z
-URL:https://www.hulias.info/exhibition/what-will-the-world-be-for-my-sister
-	-what-would-the-world-have-been-for-my-sister
+UID:X6zlFOAwvKlVJ2b35MQJ9
+SUMMARY:[HULIAS] Opening: Mellom fjellene og himmelen/Tra le montagne e il 
+	cielo
+DTSTAMP:20230611T170000Z
+DTSTART:20230701T140000Z
+URL:https://www.hulias.info/exhibition/mellom-fjellene-og-himmelen-tra-le-m
+	ontagne-e-il-cielo
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
+DURATION:PT6H
 END:VEVENT
 END:VCALENDAR
