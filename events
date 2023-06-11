@@ -5,15 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UaoXSpc5JKHYHRF0VBQJ5
+UID:zQ9J6wxtJ-p7cx64U2NY1
 SUMMARY:[HULIAS] Opening: Mellom fjellene og himmelen/Tra le montagne e il 
 	cielo
-DTSTAMP:20230611T182700Z
+DTSTAMP:20230611T182800Z
 DTSTART:20230701T140000Z
 URL:https://www.hulias.info/exhibition/mellom-fjellene-og-himmelen-tra-le-m
 	ontagne-e-il-cielo
-LOCATION:Hulias Cantina\, Piazzetta del Colle 4\, 67050 Civita D'Antino (AQ
-	)\, Italy
+LOCATION:. undefined
 DURATION:PT6H
 END:VEVENT
 END:VCALENDAR
