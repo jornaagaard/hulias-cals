@@ -5,20 +5,20 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xVCRRhYODqy_NK6rJ__yD
+UID:EA18sqdbUfWfBCTcSfhLq
 SUMMARY:[HULIAS] Opening: Thousand Island
-DTSTAMP:20230728T163300Z
+DTSTAMP:20230728T174600Z
 DTSTART:20231020T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:nb-MHCJzH27v2B7LX9rNz
-SUMMARY:[HULIAS] Opening: Pat McCarthy
-DTSTAMP:20230728T163300Z
+UID:9rbtrzmBEgQjP_vaVTznH
+SUMMARY:[HULIAS] Opening: Paradise
+DTSTAMP:20230728T174600Z
 DTSTART:20230825T160000Z
-URL:https://www.hulias.info/events
+URL:https://www.hulias.info/exhibition/paradise
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
