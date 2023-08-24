@@ -5,7 +5,7 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:IIOpYvBNVU56m-_8Sknv4
+UID:2U9s5gLD9HGYHWPHJwfSz
 SUMMARY:[HULIAS] Opening: Thousand Island
 DTSTAMP:20230824T092900Z
 DTSTART:20231124T170000Z
@@ -14,20 +14,22 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:v8UBOrYmtM2i92TzYeIiy
+UID:rWWftfzu0d8VtgzvXtQJJ
 SUMMARY:[HULIAS] Oslo Culture Night 2023 (Oslo Kulturnatt)
 DTSTAMP:20230824T092900Z
 DTSTART:20230915T160000Z
-DESCRIPTION:Oslo Culture Night (Oslo kulturnatt) is the city’s tribute to a
-	nd showcase of Oslo’s rich and diverse cultural scene. Hundreds of venues 
-	open their doors with free entry\, to create something unique and special 
-	for you to experience throughout the night.
+DESCRIPTION:For this years Oslo Culture Night\, Hulias will be open from 18
+	:00 to 20:00 presenting our current exhibition "Paradise" by Pat McCarthy.
+	\n\nOslo Culture Night (Oslo kulturnatt) is the city’s tribute to and show
+	case of Oslo’s rich and diverse cultural scene. Hundreds of venues open th
+	eir doors with free entry\, to create something unique and special for you
+	 to experience throughout the night.
 URL:https://www.hulias.info/event/oslo-culture-night-2023
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:Tk441FMZog0GpTOv5751t
+UID:PQlgM6SLtayFJao7pS2ZX
 SUMMARY:[HULIAS] Opening: Paradise
 DTSTAMP:20230824T092900Z
 DTSTART:20230825T160000Z
