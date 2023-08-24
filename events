@@ -5,18 +5,18 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:PCw5K28eNxR1kKqk0XUb9
+UID:Q1X-Uqz1xxMUOS_-JHZFt
 SUMMARY:[HULIAS] Opening: Thousand Island
-DTSTAMP:20230824T092500Z
+DTSTAMP:20230824T092900Z
 DTSTART:20231124T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:HuPoPfJ2Ku0GfGQi_QoBL
+UID:b9x3SsDwlenvffc7yjr5S
 SUMMARY:[HULIAS] Oslo Culture Night 2023 (Oslo Kulturnatt)
-DTSTAMP:20230824T092500Z
+DTSTAMP:20230824T092900Z
 DTSTART:20230915T160000Z
 DESCRIPTION:Oslo Culture Night (Oslo kulturnatt) is the city’s tribute to a
 	nd showcase of Oslo’s rich and diverse cultural scene. Hundreds of venues 
@@ -27,9 +27,9 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:hObzMVN6h7Q0c6bX78bRL
+UID:mmhB89dOS8PxWDrVMSrlY
 SUMMARY:[HULIAS] Opening: Paradise
-DTSTAMP:20230824T092500Z
+DTSTAMP:20230824T092900Z
 DTSTART:20230825T160000Z
 URL:https://www.hulias.info/exhibition/paradise
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
