@@ -5,10 +5,19 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:bZi2M0TZk8rUHe_6IhaGx
+UID:69my-cL96cqku52wMBkVh
 SUMMARY:[HULIAS] Opening: Thousand Island
 DTSTAMP:20231023T204100Z
 DTSTART:20231124T170000Z
+URL:https://www.hulias.info/events
+LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:MbBrfjuM-ousxHyKSgVtv
+SUMMARY:[HULIAS] Opening: Kim Henning Andreassen
+DTSTAMP:20231023T204100Z
+DTSTART:20240216T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
