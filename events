@@ -5,18 +5,19 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:mUMzkOkO0qhOp3qKuNW4g
+UID:EBGBjz93hnEvXDyU8yGVS
 SUMMARY:[HULIAS] Performance: I Am Undone (Vol. 5)
-DTSTAMP:20231213T172300Z
+DTSTAMP:20231213T175500Z
 DTSTART:20240113T180000Z
+DESCRIPTION:This event is free and open to all.
 URL:https://www.hulias.info/event/i-am-undone-vol-5
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:vYC9GeSLQg4OXCoIyqp3H
+UID:QnDGgcuim7_HKPOG4nFYF
 SUMMARY:[HULIAS] Opening: Kim Henning Andreassen
-DTSTAMP:20231213T172300Z
+DTSTAMP:20231213T175500Z
 DTSTART:20240216T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
