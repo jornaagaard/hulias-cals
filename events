@@ -5,12 +5,16 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:yAkxKdV6OwSdPYqdS8Fmj
-SUMMARY:[HULIAS] Opening: Som av vane
-DTSTAMP:20240216T151600Z
-DTSTART:20240216T170000Z
-URL:https://www.hulias.info/exhibition/som-av-vane
+UID:VlybkqUZcu3_d34MXbEQl
+SUMMARY:[HULIAS] Book Launch: Samuel Nyholm / Sany – Strannberg\, The Chauv
+	inist Manifesto
+DTSTAMP:20240418T143200Z
+DTSTART:20240511T140000Z
+DESCRIPTION:Reading by Cornel Windlin (CH)\, Leo Zu Knyphausen Nyholm / Leo
+	ny (SE) And Samuel Nyholm / Sany (SE). Published by Foot Books.
+URL:https://www.hulias.info/event/book-launch-samuel-nyholm-sany-strannberg
+	-the-chauvinist-manifesto
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
+DURATION:PT2H
 END:VEVENT
 END:VCALENDAR
