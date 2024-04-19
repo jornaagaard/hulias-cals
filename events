@@ -5,10 +5,20 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ptH-5_zS91m32myJeCeDq
+UID:HYZbSrQXKCwlfEWBp23Ul
+SUMMARY:[HULIAS] Opening: Guendalina Cerruti\,Maria Gorodeckaya\,Spencer La
+	i
+DTSTAMP:20240419T191200Z
+DTSTART:20240531T160000Z
+URL:https://www.hulias.info/events
+LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:0K9nlE39soF3r8jKg3HbR
 SUMMARY:[HULIAS] Book Launch: Samuel Nyholm / Sany – Strannberg\, The Chauv
 	inist Manifesto
-DTSTAMP:20240418T170300Z
+DTSTAMP:20240419T191200Z
 DTSTART:20240511T140000Z
 DESCRIPTION:Reading by Cornel Windlin (CH)\, Leo Zu Knyphausen Nyholm / Leo
 	ny (SE) And Samuel Nyholm / Sany (SE). Published by Foot Books.
