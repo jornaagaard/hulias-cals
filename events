@@ -5,7 +5,7 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:3TW2MbbUR3ZnLr9wLobqk
+UID:mIkpGVRiL1zi3VhOanz1y
 SUMMARY:[HULIAS] Opening: Ørnulf Bast
 DTSTAMP:20240425T094800Z
 DTSTART:20240830T160000Z
@@ -14,17 +14,7 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:HheZ0Oqo6J2gVjlFNm5fK
-SUMMARY:[HULIAS] Opening: Guendalina Cerruti\,Maria Gorodeckaya\,Spencer La
-	i
-DTSTAMP:20240425T094800Z
-DTSTART:20240531T160000Z
-URL:https://www.hulias.info/events
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:Nss5BTSqBZGmiztNsjYJf
+UID:nGa7CKvr6lORzlRNO5f7n
 SUMMARY:[HULIAS] Book Launch: Samuel Nyholm / Sany – Strannberg\, The Chauv
 	inist Manifesto
 DTSTAMP:20240425T094800Z
