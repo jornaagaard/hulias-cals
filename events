@@ -5,19 +5,28 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:sPvcdrh-qL0goITdp4bOl
+UID:GobFBBZgvM53wNHy2mHmI
 SUMMARY:[HULIAS] Opening: Ørnulf Bast
-DTSTAMP:20240425T120000Z
+DTSTAMP:20240425T121300Z
 DTSTART:20240830T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:g5surBeDZjcHmpefQD4_j
+UID:2Gk-eMQfAURp8dLHOW-Ih
+SUMMARY:[HULIAS] Opening: Marthin Espeland
+DTSTAMP:20240425T121300Z
+DTSTART:20241101T170000Z
+URL:https://www.hulias.info/events
+LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:MUG5y4r75wPx8aRLVD9nn
 SUMMARY:[HULIAS] Book Launch: Samuel Nyholm / Sany – Strannberg\, The Chauv
 	inist Manifesto
-DTSTAMP:20240425T120000Z
+DTSTAMP:20240425T121300Z
 DTSTART:20240511T140000Z
 DESCRIPTION:Reading by Cornel Windlin (CH)\, Leo Zu Knyphausen Nyholm / Leo
 	ny (SE) And Samuel Nyholm / Sany (SE). Published by Foot Books.
