@@ -5,28 +5,39 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Juj2L4c8q95MR0KTTUtCC
+UID:j2J0vEXjh8RDf9LeZgrMR
+SUMMARY:[HULIAS CANTINA] Opening: Pan’s socks
+DTSTAMP:20240425T134000Z
+DTSTART:20240629T100000Z
+DESCRIPTION:Hulias Cantina:\nhttps://www.hulias.info/cantina\n\n
+URL:https://www.hulias.info/exhibition/pan-s-socks
+LOCATION:Hulias Cantina\, Piazzetta del Colle 4\, 67050 Civita d’Antino (AQ
+	)\, Italy
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:_3MstHhuCuQ7D0ubJKpfR
 SUMMARY:[HULIAS] Opening: Ørnulf Bast
-DTSTAMP:20240425T133900Z
+DTSTAMP:20240425T134000Z
 DTSTART:20240830T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:o_YMOkh-5qYCi4I5ArF0Q
+UID:vL0zi2aQt3zrhKdEieE9J
 SUMMARY:[HULIAS] Opening: Marthin Espeland
-DTSTAMP:20240425T133900Z
+DTSTAMP:20240425T134000Z
 DTSTART:20241101T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:3CZbRRThPMC7WJJAQH_Bf
+UID:lUSHJBtkRJWWvzhZKNMKA
 SUMMARY:[HULIAS] Book Launch: Samuel Nyholm / Sany – Strannberg\, The Chauv
 	inist Manifesto
-DTSTAMP:20240425T133900Z
+DTSTAMP:20240425T134000Z
 DTSTART:20240511T140000Z
 DESCRIPTION:Reading by Cornel Windlin (CH)\, Leo Zu Knyphausen Nyholm / Leo
 	ny (SE) And Samuel Nyholm / Sany (SE). Published by Foot Books.
