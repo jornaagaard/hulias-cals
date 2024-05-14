@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:uvYPIglLK5XVYzvpuyw5c
+UID:xwveP-BZ-G5ottrIJPVpa
 SUMMARY:[HULIAS CANTINA] Opening: Pan’s socks
-DTSTAMP:20240514T130900Z
+DTSTAMP:20240514T150000Z
 DTSTART:20240629T100000Z
 DESCRIPTION:Hulias Cantina:\nhttps://www.hulias.info/cantina\n\n
 URL:https://www.hulias.info/exhibition/pan-s-socks
@@ -16,28 +16,28 @@ LOCATION:Hulias Cantina\, Piazzetta del Colle 4\, 67050 Civita d’Antino (AQ
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:AWZh7hINu_y6Qg6fJ4xv3
+UID:EfsQRM7M6sa3eGNZH3RT8
 SUMMARY:[HULIAS] Opening: Ørnulf Bast
-DTSTAMP:20240514T130900Z
+DTSTAMP:20240514T150000Z
 DTSTART:20240830T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:qahx-arL0gBd_qUX50VJJ
+UID:jAdVfrjEO7cPH1B5_SlP7
 SUMMARY:[HULIAS] Opening: Marthin Espeland
-DTSTAMP:20240514T130900Z
+DTSTAMP:20240514T150000Z
 DTSTART:20241101T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:UI7AWGvAgBQwNS19axVGh
+UID:jbNRKSsDOWuStaPkhTB2J
 SUMMARY:[HULIAS CANTINA] Opening: Og talglysets smil ble sommerfuglens kata
 	strofe / E il sorriso della candela divenne il disastro della farfalla
-DTSTAMP:20240514T130900Z
+DTSTAMP:20240514T150000Z
 DTSTART:20240629T100000Z
 DESCRIPTION:Hulias Cantina:\nhttps://www.hulias.info/cantina\n\n
 URL:https://www.hulias.info/exhibition/og-talglysets-smil-ble-sommerfuglens
