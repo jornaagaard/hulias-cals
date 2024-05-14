@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2zELUPMNpQKhEhxSTj5Xn
+UID:y7RDK6adC8YuJdg2REQYc
 SUMMARY:[HULIAS CANTINA] Opening: Pan’s socks
-DTSTAMP:20240510T114700Z
+DTSTAMP:20240514T130900Z
 DTSTART:20240629T100000Z
 DESCRIPTION:Hulias Cantina:\nhttps://www.hulias.info/cantina\n\n
 URL:https://www.hulias.info/exhibition/pan-s-socks
@@ -16,47 +16,34 @@ LOCATION:Hulias Cantina\, Piazzetta del Colle 4\, 67050 Civita d’Antino (AQ
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:pAL74oLxmmfNHAMEscg8x
+UID:EjNEPnH7jXHC1cBvObMr5
 SUMMARY:[HULIAS] Opening: Ørnulf Bast
-DTSTAMP:20240510T114700Z
+DTSTAMP:20240514T130900Z
 DTSTART:20240830T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:ZjSQyv2hBZtTMbAvDMxr8
+UID:K20BelpyPVdQ_AiDLB9uL
 SUMMARY:[HULIAS] Opening: Marthin Espeland
-DTSTAMP:20240510T114700Z
+DTSTAMP:20240514T130900Z
 DTSTART:20241101T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:2BKEawUY9OR82wlnaBLJC
+UID:pcuwaeswPy0itaceVK1vm
 SUMMARY:[HULIAS CANTINA] Opening: Og talglysets smil ble sommerfuglens kata
 	strofe / E il sorriso della candela divenne il disastro della farfalla
-DTSTAMP:20240510T114700Z
+DTSTAMP:20240514T130900Z
 DTSTART:20240629T100000Z
 DESCRIPTION:Hulias Cantina:\nhttps://www.hulias.info/cantina\n\n
 URL:https://www.hulias.info/exhibition/og-talglysets-smil-ble-sommerfuglens
 	-katastrofe-e-il-sorriso-della-candela-di-sego-divenne-il
 LOCATION:Hulias Cantina\, Piazzetta del Colle 4\, 67050 Civita d’Antino (AQ
 	)\, Italy
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:3eOOjZ5Qr6VC3TSJdLxx0
-SUMMARY:[HULIAS] Book Launch: Samuel Nyholm / Sany – Strannberg\, The Chauv
-	inist Manifesto
-DTSTAMP:20240510T114700Z
-DTSTART:20240511T140000Z
-DESCRIPTION:Reading by Cornel Windlin (CH)\, Leo Zu Knyphausen Nyholm / Leo
-	ny (SE) And Samuel Nyholm / Sany (SE). Published by Foot Books.
-URL:https://www.hulias.info/event/book-launch-samuel-nyholm-sany-strannberg
-	-the-chauvinist-manifesto
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT2H
 END:VEVENT
 END:VCALENDAR
