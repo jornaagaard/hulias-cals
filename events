@@ -5,37 +5,37 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:25PXw_lLNu5WdvgSvxrM-
+UID:oPusGwTleT8yRe2PYMBOE
 SUMMARY:[HULIAS] Opening: All Good Things
-DTSTAMP:20240613T084800Z
+DTSTAMP:20240613T121100Z
 DTSTART:20240614T160000Z
 URL:https://www.hulias.info/exhibition/all-good-things
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:HMeHw5voYyGJkVebfqf63
+UID:0x9U_ZpQcMH76iKkWwHGD
 SUMMARY:[HULIAS] Opening: Ørnulf Bast
-DTSTAMP:20240613T084800Z
+DTSTAMP:20240613T121100Z
 DTSTART:20240830T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:MqI0RRa5fyHJLoGg2pwtA
+UID:czV-PNukRNX9b3sLfy7hL
 SUMMARY:[HULIAS] Opening: Marthin Espeland
-DTSTAMP:20240613T084800Z
+DTSTAMP:20240613T121100Z
 DTSTART:20241101T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:c5P8SP_tbUb3MdfFGMMFq
+UID:nILb1tB6f19H1RTge50nk
 SUMMARY:[HULIAS CANTINA] Opening: Og talglysets smil ble sommerfuglens kata
 	strofe / E il sorriso della candela divenne il disastro della farfalla
-DTSTAMP:20240613T084800Z
+DTSTAMP:20240613T121100Z
 DTSTART:20240629T100000Z
 DESCRIPTION:Hulias Cantina:\nhttps://www.hulias.info/cantina\n\n
 URL:https://www.hulias.info/exhibition/og-talglysets-smil-ble-sommerfuglens
