@@ -5,34 +5,34 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Dt5q86tM86wOwc__gbVVc
+UID:Kk8-L8sydvdcqOgd8qqIZ
 SUMMARY:[HULIAS] Opening: Ørnulf Bast
-DTSTAMP:20240628T125000Z
+DTSTAMP:20240629T074400Z
 DTSTART:20240830T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:LZQafaZFYDE8MEXGm3T5f
+UID:B2RTNRamRk366pDMYOWv4
 SUMMARY:[HULIAS] Opening: Marthin Espeland
-DTSTAMP:20240628T125000Z
+DTSTAMP:20240629T074400Z
 DTSTART:20241101T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:JB1DVrl-XmZ9gu71JMQ-H
+UID:183Tdz8RltlOjPMay4-vU
 SUMMARY:[HULIAS CANTINA] Opening: Og talglysets smil ble sommerfuglens kata
 	strofe / E il sorriso della candela divenne il disastro della farfalla
-DTSTAMP:20240628T125000Z
-DTSTART:20240629T100000Z
+DTSTAMP:20240629T074400Z
+DTSTART:20240629T080000Z
 DESCRIPTION:Hulias Cantina:\nhttps://www.hulias.info/cantina\n\n
 URL:https://www.hulias.info/exhibition/og-talglysets-smil-ble-sommerfuglens
 	-katastrofe-e-il-sorriso-della-candela-di-sego-divenne-il
 LOCATION:Hulias Cantina\, Piazzetta del Colle 4\, 67050 Civita d’Antino (AQ
 	)\, Italy
-DURATION:PT2H
+DURATION:PT4H
 END:VEVENT
 END:VCALENDAR
