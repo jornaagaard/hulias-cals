@@ -5,18 +5,29 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:JNJBrRnyJMt-P0jgl5aYB
+UID:RwndDFhiw-95y4d_yNRPE
+SUMMARY:[HULIAS] Opening: Purest Lounge for Now People
+DTSTAMP:20240722T210900Z
+DTSTART:20240803T130000Z
+URL:https://www.hulias.info/exhibition/purest-lounge-for-now-people
+LOCATION:Grim Recidency for Artists and Curators (GRAC)\, Setesdalsveien 43
+	\, 4617 Kristiansand \, Norway (In the outdoor area outside the old mill h
+	ouse)
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:O2NA_UmSVeLscAJ1g9QQ-
 SUMMARY:[HULIAS] Opening: Ørnulf Bast
-DTSTAMP:20240722T205100Z
+DTSTAMP:20240722T210900Z
 DTSTART:20240830T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:l88THXo-Dm-KgI0qp7QQ9
+UID:z7-Pj8qrR18YPzXLcod6N
 SUMMARY:[HULIAS] Opening: Marthin Espeland
-DTSTAMP:20240722T205100Z
+DTSTAMP:20240722T210900Z
 DTSTART:20241101T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
