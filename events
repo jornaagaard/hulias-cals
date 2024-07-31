@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:7Rs2sO1QLFrM0BpLQlZqT
+UID:-zYuhZBNsLbnl3WmmHxqQ
 SUMMARY:[HULIAS] Opening: Purest Lounge for Now People
-DTSTAMP:20240730T145900Z
+DTSTAMP:20240731T081600Z
 DTSTART:20240803T130000Z
 URL:https://www.hulias.info/exhibition/purest-lounge-for-now-people
 LOCATION:Grim Recidency for Artists and Curators (GRAC)\, Setesdalsveien 43
@@ -16,21 +16,31 @@ LOCATION:Grim Recidency for Artists and Curators (GRAC)\, Setesdalsveien 43
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:1V40vKORSn7xNzw_jAd1F
+UID:dj4bjPxuWjW9-wb0GeloR
 SUMMARY:[HULIAS] Opening: Ørnulf Bast
-DTSTAMP:20240730T145900Z
+DTSTAMP:20240731T081600Z
 DTSTART:20240830T160000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:m4_CVEbzxCWW-neuVYize
+UID:TeWn2uyvObdBCp3W2RaoM
 SUMMARY:[HULIAS] Opening: Marthin Espeland
-DTSTAMP:20240730T145900Z
+DTSTAMP:20240731T081600Z
 DTSTART:20241101T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:alF_LaLYb-vbHv1-Aszjt
+SUMMARY:[HULIAS] Opening: Ørnulf Bast
+DTSTAMP:20240731T081600Z
+DTSTART:20240831T110000Z
+URL:https://www.hulias.info/events
+LOCATION:Moss Kunstforening\, Chrysties gate 1\, 1530 Moss\, Norway (Kirket
+	orget)
+DURATION:PT2H
 END:VEVENT
 END:VCALENDAR
