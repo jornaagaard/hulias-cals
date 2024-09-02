@@ -5,31 +5,12 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:SJZhEeg5FVu89gGNYoPka
-SUMMARY:[HULIAS] Opening: Where are my dreams stored?
-DTSTAMP:20240829T181500Z
-DTSTART:20240830T160000Z
-URL:https://www.hulias.info/exhibition/where-are-my-dreams-stored
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:1qrmBlxX0vY_oGGZxJHHE
+UID:Nji3ozkriwXwscgy_LEgt
 SUMMARY:[HULIAS] Opening: Marthin Espeland
-DTSTAMP:20240829T181500Z
+DTSTAMP:20240902T163200Z
 DTSTART:20241101T170000Z
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:OEW9us8K2wjglEUwEG0Q8
-SUMMARY:[HULIAS] Opening: Where are my dreams stored?
-DTSTAMP:20240829T181500Z
-DTSTART:20240831T110000Z
-URL:https://www.hulias.info/exhibition/where-are-my-dreams-stored-moss
-LOCATION:Moss Kunstforening\, Chrysties gate 1\, 1530 Moss\, Norway (Kirket
-	orget)
-DURATION:PT2H
 END:VEVENT
 END:VCALENDAR
