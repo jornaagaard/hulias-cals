@@ -7130,46 +7130,13 @@ LOCATION:Phone/video
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-unconfirmed_d038f51a-071d-4267-8987-918f8286cf19-e323eaebc1e1-0
-SUMMARY:[HULIAS PROD.] Meeting?
-DTSTAMP:20240909T184400Z
-DTSTART:20240912T170000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;d038f51a-0
-	71d-4267-8987-918f8286cf19\n\n
-LOCATION:Isak Wisløff
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-unconfirmed_d038f51a-071d-4267-8987-918f8286cf19-d4860607771a-1
+UID:meeting_d038f51a-071d-4267-8987-918f8286cf19
 SUMMARY:[HULIAS PROD.] Meeting?
 DTSTAMP:20240909T184400Z
 DTSTART:20240914T170000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;d038f51a-0
-	71d-4267-8987-918f8286cf19\n\n
-LOCATION:Isak Wisløff
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-unconfirmed_d038f51a-071d-4267-8987-918f8286cf19-7993458b8ee6-2
-SUMMARY:[HULIAS PROD.] Meeting?
-DTSTAMP:20240909T184400Z
-DTSTART:20240916T150000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;d038f51a-0
-	71d-4267-8987-918f8286cf19\n\n
-LOCATION:Isak Wisløff
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-unconfirmed_d038f51a-071d-4267-8987-918f8286cf19-c8c4806d654d-3
-SUMMARY:[HULIAS PROD.] Meeting?
-DTSTAMP:20240909T184400Z
-DTSTART:20240917T150000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;d038f51a-0
-	71d-4267-8987-918f8286cf19\n\n
+DESCRIPTION:[CONFIRMED]\n\nView notes for this meeting in admin:\nhttps://a
+	dmin.hulias.info/structure/meetings\;d038f51a-071d-4267-8987-918f8286cf19\
+	n\n
 LOCATION:Isak Wisløff
 DURATION:PT2H
 END:VEVENT
