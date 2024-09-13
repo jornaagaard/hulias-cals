@@ -7083,75 +7083,15 @@ STATUS:CONFIRMED
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-unconfirmed_5c0c8bd4-baf7-40ff-9b85-79c19cb2e1b2-8ac2a434361e-0
-SUMMARY:[HULIAS PROD.] Meeting? (Møte med Anna ang potensiell rolle)
-DTSTAMP:20240913T152200Z
-DTSTART:20240919T170000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;5c0c8bd4-b
-	af7-40ff-9b85-79c19cb2e1b2\n\n
-LOCATION:Hulias
-STATUS:CANCELLED
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-unconfirmed_5c0c8bd4-baf7-40ff-9b85-79c19cb2e1b2-6e69b3e04b57-1
-SUMMARY:[HULIAS PROD.] Meeting? (Møte med Anna ang potensiell rolle)
-DTSTAMP:20240913T152200Z
-DTSTART:20240918T110000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;5c0c8bd4-b
-	af7-40ff-9b85-79c19cb2e1b2\n\n
-LOCATION:Hulias
-STATUS:CANCELLED
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-unconfirmed_5c0c8bd4-baf7-40ff-9b85-79c19cb2e1b2-5f17c8f8acd4-2
-SUMMARY:[HULIAS PROD.] Meeting? (Møte med Anna ang potensiell rolle)
-DTSTAMP:20240913T152200Z
-DTSTART:20240919T160000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;5c0c8bd4-b
-	af7-40ff-9b85-79c19cb2e1b2\n\n
-LOCATION:Hulias
-STATUS:CANCELLED
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-unconfirmed_5c0c8bd4-baf7-40ff-9b85-79c19cb2e1b2-a570654638a2-3
-SUMMARY:[HULIAS PROD.] Meeting? (Møte med Anna ang potensiell rolle)
+UID:meeting_5c0c8bd4-baf7-40ff-9b85-79c19cb2e1b2
+SUMMARY:[HULIAS PROD.] Meeting (Møte med Anna ang potensiell rolle)
 DTSTAMP:20240913T152200Z
 DTSTART:20240923T160000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;5c0c8bd4-b
-	af7-40ff-9b85-79c19cb2e1b2\n\n
+DESCRIPTION:[CONFIRMED]\n\nView notes for this meeting in admin:\nhttps://a
+	dmin.hulias.info/structure/meetings\;5c0c8bd4-baf7-40ff-9b85-79c19cb2e1b2\
+	n\n
 LOCATION:Hulias
-STATUS:CANCELLED
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-unconfirmed_5c0c8bd4-baf7-40ff-9b85-79c19cb2e1b2-68377a8915e9-4
-SUMMARY:[HULIAS PROD.] Meeting? (Møte med Anna ang potensiell rolle)
-DTSTAMP:20240913T152200Z
-DTSTART:20240925T160000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;5c0c8bd4-b
-	af7-40ff-9b85-79c19cb2e1b2\n\n
-LOCATION:Hulias
-STATUS:CANCELLED
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-unconfirmed_5c0c8bd4-baf7-40ff-9b85-79c19cb2e1b2-457bcff43a9d-5
-SUMMARY:[HULIAS PROD.] Meeting? (Møte med Anna ang potensiell rolle)
-DTSTAMP:20240913T152200Z
-DTSTART:20240926T160000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;5c0c8bd4-b
-	af7-40ff-9b85-79c19cb2e1b2\n\n
-LOCATION:Hulias
-STATUS:CANCELLED
+STATUS:CONFIRMED
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
