@@ -7204,4 +7204,16 @@ LOCATION:Phone/video
 STATUS:CANCELLED
 DURATION:PT2H
 END:VEVENT
+BEGIN:VEVENT
+UID:meeting-unconfirmed_db8c6fba-a494-4af3-83f4-d7bec6c7e384-4466a19b6e95-3
+SUMMARY:[HULIAS PROD.] Meeting? (Generalt + planleggingsmøte Paris)
+DTSTAMP:20240914T222600Z
+DTSTART:20240919T160000Z
+DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
+	at work for you:\nhttps://admin.hulias.info/structure/meetings\;db8c6fba-a
+	494-4af3-83f4-d7bec6c7e384\n\n
+LOCATION:Phone/video
+STATUS:CANCELLED
+DURATION:PT2H
+END:VEVENT
 END:VCALENDAR
