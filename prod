@@ -7132,6 +7132,18 @@ STATUS:CONFIRMED
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
+UID:meeting-unconfirmed_8e283b08-a383-4a5f-ab2d-98a744443700-89e0e67bbc64-0
+SUMMARY:[HULIAS PROD.] Meeting? (Planleggingsmøte Paris)
+DTSTAMP:20240914T200500Z
+DTSTART:20240926T153000Z
+DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
+	at work for you:\nhttps://admin.hulias.info/structure/meetings\;8e283b08-a
+	383-4a5f-ab2d-98a744443700\n\n
+LOCATION:Phone/video
+STATUS:CANCELLED
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:meeting_a5ccff73-e0f4-48f7-9ced-305735cb6efe
 SUMMARY:[HULIAS PROD.] Meeting (Avtaler\, Thousand Island\, Italia\, Progra
 	m)
