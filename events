@@ -5,6 +5,16 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:event_1d74c2b6-8426-44f3-b5bd-b22f4686cd42
+SUMMARY:[HULIAS] Opening: The Salon
+DTSTAMP:20241015T154600Z
+DTSTART:20241017T160000Z
+URL:https://www.hulias.info/exhibition/the-salon
+LOCATION:NADA & The Community\, 30 bis Rue de Paradis\, 75010 Paris\, Franc
+	e
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:event_7f7502ea-69cf-46e7-b19e-5f36ac494470
 SUMMARY:[HULIAS] Opening: Evig eies også et godt rykte. Og likevel stiger j
 	eg\, en annen sol.
