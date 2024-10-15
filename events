@@ -15,4 +15,15 @@ URL:https://www.hulias.info/exhibition/evig-eies-ogsa-et-godt-rykte-og-like
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
+BEGIN:VEVENT
+UID:event_86a1ce44-29e8-4938-8b13-e6387bf5c578
+SUMMARY:[HULIAS] Opening: The Salon
+DTSTAMP:20241015T154600Z
+DTSTART:20241017T080000Z
+DESCRIPTION:VIP Opening Preview (by Invitation)
+URL:https://www.hulias.info/exhibition/the-salon
+LOCATION:NADA & The Community\, 30 bis Rue de Paradis\, 75010 Paris\, Franc
+	e
+DURATION:PT8H
+END:VEVENT
 END:VCALENDAR
