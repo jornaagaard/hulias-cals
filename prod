@@ -5666,6 +5666,20 @@ LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
+UID:event_1d74c2b6-8426-44f3-b5bd-b22f4686cd42
+SUMMARY:[HULIAS ORBIT PROD.] Opening: The Salon
+DTSTAMP:20241015T154600Z
+DTSTART:20241017T160000Z
+DESCRIPTION:Contact Person: \nIsak Wisløff\n\nProduction Page: \nhttps://ww
+	w.hulias.info/prod/11f3eb47-4208-409a-adb0-c90bab7f4367\n\nEdit Event in A
+	dmin: \nhttps://admin.hulias.info/structure/events\;2024\;1d74c2b6-8426-44
+	f3-b5bd-b22f4686cd42\n\nExhibition Page: \nhttps://www.hulias.info/exhibit
+	ion/the-salon\n\n
+LOCATION:NADA & The Community\, 30 bis Rue de Paradis\, 75010 Paris\, Franc
+	e
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:event_2268072e-2872-44ed-b0e9-ded774e6130f
 SUMMARY:[HULIAS ORBIT PROD.] Opening: Purest Lounge for Now People
 DTSTAMP:20241015T154600Z
