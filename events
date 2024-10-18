@@ -8,21 +8,11 @@ BEGIN:VEVENT
 UID:event_7f7502ea-69cf-46e7-b19e-5f36ac494470
 SUMMARY:[HULIAS] Opening: Evig eies også et godt rykte. Og likevel stiger j
 	eg\, en annen sol.
-DTSTAMP:20241017T103300Z
+DTSTAMP:20241018T130900Z
 DTSTART:20241101T170000Z
 URL:https://www.hulias.info/exhibition/evig-eies-ogsa-et-godt-rykte-og-like
 	vel-stiger-jeg-en-annen-sol
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:event_86a1ce44-29e8-4938-8b13-e6387bf5c578
-SUMMARY:[HULIAS] The Salon
-DTSTAMP:20241017T103300Z
-DTSTART:20241017T160000Z
-URL:https://www.hulias.info/exhibition/the-salon
-LOCATION:NADA & The Community\, 30 bis Rue de Paradis\, 75010 Paris\, Franc
-	e
-DURATION:PT2H
 END:VEVENT
 END:VCALENDAR
