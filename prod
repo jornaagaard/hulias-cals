@@ -7337,30 +7337,6 @@ STATUS:CONFIRMED
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-unconfirmed_bb3ceab1-507b-495b-8619-79b08da2ebbf-7e522c343a88-0
-SUMMARY:[HULIAS PROD.] Meeting? (DA til AS ++)
-DTSTAMP:20241112T064500Z
-DTSTART:20241122T180000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;bb3ceab1-5
-	07b-495b-8619-79b08da2ebbf\n\n
-LOCATION:Isak Wisløff
-STATUS:CANCELLED
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
-UID:meeting-unconfirmed_bb3ceab1-507b-495b-8619-79b08da2ebbf-2d38d4a99109-1
-SUMMARY:[HULIAS PROD.] Meeting? (DA til AS ++)
-DTSTAMP:20241112T064500Z
-DTSTART:20241129T180000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;bb3ceab1-5
-	07b-495b-8619-79b08da2ebbf\n\n
-LOCATION:Isak Wisløff
-STATUS:CANCELLED
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:meeting_d038f51a-071d-4267-8987-918f8286cf19
 SUMMARY:[HULIAS PROD.] Meeting (Seminar)
 DTSTAMP:20241112T064500Z
