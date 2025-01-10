@@ -5,13 +5,11 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:event_7f7502ea-69cf-46e7-b19e-5f36ac494470
-SUMMARY:[HULIAS] Opening: Evig eies også et godt rykte. Og likevel stiger j
-	eg\, en annen sol.
-DTSTAMP:20241101T144500Z
-DTSTART:20241101T170000Z
-URL:https://www.hulias.info/exhibition/evig-eies-ogsa-et-godt-rykte-og-like
-	vel-stiger-jeg-en-annen-sol
+UID:event_b62b7cb5-f692-46a7-8e11-6042cf0296d5
+SUMMARY:[HULIAS] Opening: Jonathan Nilsson
+DTSTAMP:20250110T091900Z
+DTSTART:20250124T170000Z
+URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
