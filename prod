@@ -3099,12 +3099,12 @@ BEGIN:VEVENT
 UID:install_5dc78638-1056-43f9-9a07-71762af7255d
 SUMMARY:[HULIAS PROD.] Install: Andreas Meinich
 DTSTAMP:20250214T103400Z
-DTSTART;VALUE=DATE:20250319
+DTSTART;VALUE=DATE:20250331
 DESCRIPTION:This exhibition does not have a public page yet.\n\nProduction 
 	Page: \nhttps://www.hulias.info/prod/5dc78638-1056-43f9-9a07-71762af7255d\
 	n\nEdit Exhibition in Admin: \nhttps://admin.hulias.info/structure/exhibit
 	ions\;2025\;5dc78638-1056-43f9-9a07-71762af7255d\n\n
-DURATION:PT336H
+DURATION:PT96H
 END:VEVENT
 BEGIN:VEVENT
 UID:cat-txt-works-dl_5dc78638-1056-43f9-9a07-71762af7255d
@@ -3122,7 +3122,7 @@ BEGIN:VEVENT
 UID:install-dl_5dc78638-1056-43f9-9a07-71762af7255d
 SUMMARY:[HULIAS PROD.] Install Deadline: Andreas Meinich
 DTSTAMP:20250214T103400Z
-DTSTART;VALUE=DATE:20250402
+DTSTART;VALUE=DATE:20250404
 DESCRIPTION:This exhibition does not have a public page yet.\n\nProduction 
 	Page: \nhttps://www.hulias.info/prod/5dc78638-1056-43f9-9a07-71762af7255d\
 	n\nEdit Exhibition in Admin: \nhttps://admin.hulias.info/structure/exhibit
