@@ -40,4 +40,13 @@ URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
+BEGIN:VEVENT
+UID:event_e35e801f-e9d3-4c86-aa7a-24f746580d74
+SUMMARY:[HULIAS] Opening: Andreas Meinich
+DTSTAMP:20250214T110600Z
+DTSTART:20250404T160000Z
+URL:https://www.hulias.info/events
+LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
+DURATION:PT3H
+END:VEVENT
 END:VCALENDAR
