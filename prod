@@ -7594,15 +7594,15 @@ STATUS:CONFIRMED
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:meeting-unconfirmed_bb3ceab1-507b-495b-8619-79b08da2ebbf-ecfdc79948d8-0
-SUMMARY:[HULIAS PROD.] Meeting? (Mars 2025\, DA til AS ++)
+UID:meeting_bb3ceab1-507b-495b-8619-79b08da2ebbf
+SUMMARY:[HULIAS PROD.] Meeting (Mars 2025\, DA til AS ++)
 DTSTAMP:20250317T092100Z
 DTSTART:20250326T170000Z
-DESCRIPTION:[NOT CONFIRMED\, DATE PENDING]\n\nAdd your name to the dates th
-	at work for you:\nhttps://admin.hulias.info/structure/meetings\;bb3ceab1-5
-	07b-495b-8619-79b08da2ebbf\n\n
+DESCRIPTION:[CONFIRMED]\n\nView notes for this meeting in admin:\nhttps://a
+	dmin.hulias.info/structure/meetings\;bb3ceab1-507b-495b-8619-79b08da2ebbf\
+	n\n
 LOCATION:Øyvind Bast
-STATUS:CANCELLED
+STATUS:CONFIRMED
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
