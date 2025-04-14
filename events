@@ -7,8 +7,8 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:event_08632512-6252-456a-9cd7-cc69c9047207
 SUMMARY:[HULIAS] Concert: Government Alpha (JP) & Lasse Marhaug (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20250410T180000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250410T200000Z
 DESCRIPTION:Government Alpha (JP)\nLasse Marhaug (NO)\n\nGateavisa invites 
 	you to an unmissable event featuring Government Alpha & Lasse Marhaug—two 
 	titans of the global noise underground—at Hulias (fittingly\, an undergrou
@@ -28,8 +28,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_85605f0d-a665-4c08-9099-aa9905db3bb4
 SUMMARY:[HULIAS] Opening: Marius Mathisrud (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20260123T170000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20260123T180000Z
 DESCRIPTION:Marius Mathisrud (NO)
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
@@ -38,8 +38,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_c1062676-8cfb-41f0-bdad-2aca223c27fa
 SUMMARY:[HULIAS] Opening: Dolce Casa
-DTSTAMP:20250411T174400Z
-DTSTART:20250425T160000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250425T180000Z
 DESCRIPTION:Victoria Alstrup (NO)
 URL:https://www.hulias.info/exhibition/dolce-casa
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
@@ -51,7 +51,7 @@ SUMMARY:[HULIAS CANTINA] Opening: Ann Cathrin November Høibo (NO)\, Damla K
 	ilickiran (SE)\, Kim Henning Andreassen (NO)\, Ida Ribu (NO)\, Matias Kiil
 	 (NO)\, Aljosa Erakovic (NO)\, Pernille Mercury Lindstad (NO)\, Tullia Noc
 	ca (IT)\, K. C. Tidemand (NO)
-DTSTAMP:20250411T174400Z
+DTSTAMP:20250414T094900Z
 DTSTART:20250628T100000Z
 DESCRIPTION:Hulias Cantina:\nhttps://www.hulias.info/cantina\n\nAnn Cathrin
 	 November Høibo (NO)\nDamla Kilickiran (SE)\nKim Henning Andreassen (NO)\n
@@ -65,60 +65,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_cce198dc-7326-42ed-a967-bfb4779ca487
 SUMMARY:[HULIAS] Opening: Damla Kilickiran (SE)
-DTSTAMP:20250411T174400Z
-DTSTART:20250530T160000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250530T180000Z
 DESCRIPTION:Damla Kilickiran (SE)
 URL:https://www.hulias.info/events
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:event_e35e801f-e9d3-4c86-aa7a-24f746580d74
-SUMMARY:[HULIAS] Opening: Friatletisk gruppeutstilling og magasinlansering
-DTSTAMP:20250411T174400Z
-DTSTART:20250404T160000Z
-DESCRIPTION:Audar Kantun (NO)\nMorten Jensen Vågen (NO)\nEmilie Korneliusse
-	n (NO)\nStanley Eliah (NO)\nJoar Nedberg (NO)\nPauline Krokeide (NO)\nGeor
-	ge Seamus McGoldrick (GB)\nKyrre Høgalmen Robertsen (NO)\nKim Henning Andr
-	eassen (NO)\nAndreas Meinich (NO)
-URL:https://www.hulias.info/exhibition/friatletisk-gruppeutstilling-og-maga
-	sinlansering
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2025-04-05_5dc78638-1056-43f9-9a07-71762af7255d
-SUMMARY:[HULIAS] Open: Friatletisk gruppeutstilling og magasinlansering
-DTSTAMP:20250411T174400Z
-DTSTART:20250405T110000Z
-DESCRIPTION:Audar Kantun (NO)\nMorten Jensen Vågen (NO)\nEmilie Korneliusse
-	n (NO)\nStanley Eliah (NO)\nJoar Nedberg (NO)\nPauline Krokeide (NO)\nGeor
-	ge Seamus McGoldrick (GB)\nKyrre Høgalmen Robertsen (NO)\nKim Henning Andr
-	eassen (NO)\nAndreas Meinich (NO)
-URL:https://www.hulias.info/exhibition/friatletisk-gruppeutstilling-og-maga
-	sinlansering
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2025-04-06_5dc78638-1056-43f9-9a07-71762af7255d
-SUMMARY:[HULIAS] Open: Friatletisk gruppeutstilling og magasinlansering
-DTSTAMP:20250411T174400Z
-DTSTART:20250406T110000Z
-DESCRIPTION:Audar Kantun (NO)\nMorten Jensen Vågen (NO)\nEmilie Korneliusse
-	n (NO)\nStanley Eliah (NO)\nJoar Nedberg (NO)\nPauline Krokeide (NO)\nGeor
-	ge Seamus McGoldrick (GB)\nKyrre Høgalmen Robertsen (NO)\nKim Henning Andr
-	eassen (NO)\nAndreas Meinich (NO)
-URL:https://www.hulias.info/exhibition/friatletisk-gruppeutstilling-og-maga
-	sinlansering
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
 UID:exhibition_2025-04-26_223e517d-b0e8-4ae3-851d-a103d4a4cbf8
 SUMMARY:[HULIAS] Open: Dolce Casa
-DTSTAMP:20250411T174400Z
-DTSTART:20250426T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250426T150000Z
 DESCRIPTION:Victoria Alstrup (NO)
 URL:https://www.hulias.info/exhibition/dolce-casa
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
@@ -127,8 +85,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-04-27_223e517d-b0e8-4ae3-851d-a103d4a4cbf8
 SUMMARY:[HULIAS] Open: Dolce Casa
-DTSTAMP:20250411T174400Z
-DTSTART:20250427T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250427T150000Z
 DESCRIPTION:Victoria Alstrup (NO)
 URL:https://www.hulias.info/exhibition/dolce-casa
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
@@ -137,8 +95,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-05-03_223e517d-b0e8-4ae3-851d-a103d4a4cbf8
 SUMMARY:[HULIAS] Open: Dolce Casa
-DTSTAMP:20250411T174400Z
-DTSTART:20250503T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250503T150000Z
 DESCRIPTION:Victoria Alstrup (NO)
 URL:https://www.hulias.info/exhibition/dolce-casa
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
@@ -147,8 +105,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-05-04_223e517d-b0e8-4ae3-851d-a103d4a4cbf8
 SUMMARY:[HULIAS] Open: Dolce Casa
-DTSTAMP:20250411T174400Z
-DTSTART:20250504T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250504T150000Z
 DESCRIPTION:Victoria Alstrup (NO)
 URL:https://www.hulias.info/exhibition/dolce-casa
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
@@ -157,8 +115,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-05-10_223e517d-b0e8-4ae3-851d-a103d4a4cbf8
 SUMMARY:[HULIAS] Open: Dolce Casa
-DTSTAMP:20250411T174400Z
-DTSTART:20250510T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250510T150000Z
 DESCRIPTION:Victoria Alstrup (NO)
 URL:https://www.hulias.info/exhibition/dolce-casa
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
@@ -167,8 +125,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-05-11_223e517d-b0e8-4ae3-851d-a103d4a4cbf8
 SUMMARY:[HULIAS] Open: Dolce Casa
-DTSTAMP:20250411T174400Z
-DTSTART:20250511T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250511T150000Z
 DESCRIPTION:Victoria Alstrup (NO)
 URL:https://www.hulias.info/exhibition/dolce-casa
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
@@ -177,8 +135,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-05-31_ec4a7987-0106-4c51-8922-13ba6c367b72
 SUMMARY:[HULIAS] Open: Damla Kilickiran (SE)
-DTSTAMP:20250411T174400Z
-DTSTART:20250531T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250531T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -186,8 +144,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-06-01_ec4a7987-0106-4c51-8922-13ba6c367b72
 SUMMARY:[HULIAS] Open: Damla Kilickiran (SE)
-DTSTAMP:20250411T174400Z
-DTSTART:20250601T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250601T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -195,8 +153,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-06-07_ec4a7987-0106-4c51-8922-13ba6c367b72
 SUMMARY:[HULIAS] Open: Damla Kilickiran (SE)
-DTSTAMP:20250411T174400Z
-DTSTART:20250607T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250607T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -204,8 +162,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-06-08_ec4a7987-0106-4c51-8922-13ba6c367b72
 SUMMARY:[HULIAS] Open: Damla Kilickiran (SE)
-DTSTAMP:20250411T174400Z
-DTSTART:20250608T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250608T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -213,8 +171,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-06-14_ec4a7987-0106-4c51-8922-13ba6c367b72
 SUMMARY:[HULIAS] Open: Damla Kilickiran (SE)
-DTSTAMP:20250411T174400Z
-DTSTART:20250614T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250614T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -222,8 +180,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-06-15_ec4a7987-0106-4c51-8922-13ba6c367b72
 SUMMARY:[HULIAS] Open: Damla Kilickiran (SE)
-DTSTAMP:20250411T174400Z
-DTSTART:20250615T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250615T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -231,8 +189,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-06-21_ec4a7987-0106-4c51-8922-13ba6c367b72
 SUMMARY:[HULIAS] Open: Damla Kilickiran (SE)
-DTSTAMP:20250411T174400Z
-DTSTART:20250621T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250621T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -240,8 +198,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-06-22_ec4a7987-0106-4c51-8922-13ba6c367b72
 SUMMARY:[HULIAS] Open: Damla Kilickiran (SE)
-DTSTAMP:20250411T174400Z
-DTSTART:20250622T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250622T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -249,8 +207,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-09-06_5b3e4603-2dd5-4d88-9644-894f6966a68a
 SUMMARY:[HULIAS] Open: Lars Nordby (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20250906T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250906T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -258,8 +216,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-09-07_5b3e4603-2dd5-4d88-9644-894f6966a68a
 SUMMARY:[HULIAS] Open: Lars Nordby (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20250907T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250907T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -267,8 +225,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-09-13_5b3e4603-2dd5-4d88-9644-894f6966a68a
 SUMMARY:[HULIAS] Open: Lars Nordby (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20250913T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250913T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -276,8 +234,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-09-14_5b3e4603-2dd5-4d88-9644-894f6966a68a
 SUMMARY:[HULIAS] Open: Lars Nordby (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20250914T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250914T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -285,8 +243,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-09-20_5b3e4603-2dd5-4d88-9644-894f6966a68a
 SUMMARY:[HULIAS] Open: Lars Nordby (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20250920T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250920T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -294,8 +252,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-09-21_5b3e4603-2dd5-4d88-9644-894f6966a68a
 SUMMARY:[HULIAS] Open: Lars Nordby (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20250921T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250921T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -303,8 +261,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-09-27_5b3e4603-2dd5-4d88-9644-894f6966a68a
 SUMMARY:[HULIAS] Open: Lars Nordby (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20250927T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250927T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -312,8 +270,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2025-09-28_5b3e4603-2dd5-4d88-9644-894f6966a68a
 SUMMARY:[HULIAS] Open: Lars Nordby (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20250928T110000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20250928T150000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -321,8 +279,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2026-01-24_10915d1d-0293-480c-a1ab-f6e87f13402d
 SUMMARY:[HULIAS] Open: Marius Mathisrud (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20260124T120000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20260124T140000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -330,8 +288,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2026-01-25_10915d1d-0293-480c-a1ab-f6e87f13402d
 SUMMARY:[HULIAS] Open: Marius Mathisrud (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20260125T120000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20260125T140000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -339,8 +297,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2026-01-31_10915d1d-0293-480c-a1ab-f6e87f13402d
 SUMMARY:[HULIAS] Open: Marius Mathisrud (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20260131T120000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20260131T140000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -348,8 +306,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2026-02-01_10915d1d-0293-480c-a1ab-f6e87f13402d
 SUMMARY:[HULIAS] Open: Marius Mathisrud (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20260201T120000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20260201T140000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -357,8 +315,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2026-02-07_10915d1d-0293-480c-a1ab-f6e87f13402d
 SUMMARY:[HULIAS] Open: Marius Mathisrud (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20260207T120000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20260207T140000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -366,8 +324,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2026-02-08_10915d1d-0293-480c-a1ab-f6e87f13402d
 SUMMARY:[HULIAS] Open: Marius Mathisrud (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20260208T120000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20260208T140000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -375,8 +333,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2026-02-14_10915d1d-0293-480c-a1ab-f6e87f13402d
 SUMMARY:[HULIAS] Open: Marius Mathisrud (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20260214T120000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20260214T140000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
@@ -384,8 +342,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:exhibition_2026-02-15_10915d1d-0293-480c-a1ab-f6e87f13402d
 SUMMARY:[HULIAS] Open: Marius Mathisrud (NO)
-DTSTAMP:20250411T174400Z
-DTSTART:20260215T120000Z
+DTSTAMP:20250414T094900Z
+DTSTART:20260215T140000Z
 URL:https://www.hulias.info
 LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
 DURATION:PT3H
