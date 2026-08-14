@@ -4,15 +4,4 @@ CALSCALE:GREGORIAN
 PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
-BEGIN:VEVENT
-UID:event_224d8fa6-69ad-4e9f-8e8a-69e85f93ceb7
-SUMMARY:[HULIAS CANTINA] Opening: Slott over slott
-DTSTAMP:20260807T122102Z
-DTSTART:20260801T080000Z
-DESCRIPTION:Hulias Cantina:\nhttps://huli.as/cantina\n\nInger Holbø (NO)
-URL:https://huli.as/exhibition/slott-over-slott
-LOCATION:Hulias Cantina\, Piazzetta del Colle 4\, 67050 Civita d’Antino (AQ
-	)\, Italy
-DURATION:PT6H
-END:VEVENT
 END:VCALENDAR
