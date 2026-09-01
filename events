@@ -7,94 +7,12 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:event_2d07dcce-fd3f-4259-a87d-28b4a7f08cf8
 SUMMARY:[HULIAS] Opening: Simen Utsigt Stenberg (NO)\, Kim Hankyul (KR)
-DTSTAMP:20260901T100630Z
+DTSTAMP:20260901T100649Z
 DTSTART:20261009T140000Z
 DESCRIPTION:Simen Utsigt Stenberg (NO)\nKim Hankyul (KR)
 URL:https://huli.as/exhibition/swab-barcelona-art-fair-2026
 LOCATION:SWAB Barcelona Art Fair\, Palau Victoria Eugènia\, Pl. de Carles B
 	uïgas 7\, 08038 Barcelona\, Spain
 DURATION:PT5H
-END:VEVENT
-BEGIN:VEVENT
-UID:event_d8e07275-6b49-4525-868f-e95a4f3e8d0b
-SUMMARY:[HULIAS] Opening: Ann Cathrin November Høibo (NO)
-DTSTAMP:20260901T100630Z
-DTSTART:20261106T170000Z
-DESCRIPTION:Ann Cathrin November Høibo (NO)
-URL:https://huli.as/events
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2027-11-06_27f6d808-f7b4-4b38-8729-3499da44cb0b
-SUMMARY:[HULIAS] Open: Ann Cathrin November Høibo (NO)
-DTSTAMP:20260901T100630Z
-DTSTART:20271106T120000Z
-URL:https://huli.as
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2027-11-07_27f6d808-f7b4-4b38-8729-3499da44cb0b
-SUMMARY:[HULIAS] Open: Ann Cathrin November Høibo (NO)
-DTSTAMP:20260901T100630Z
-DTSTART:20271107T120000Z
-URL:https://huli.as
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2027-11-13_27f6d808-f7b4-4b38-8729-3499da44cb0b
-SUMMARY:[HULIAS] Open: Ann Cathrin November Høibo (NO)
-DTSTAMP:20260901T100630Z
-DTSTART:20271113T120000Z
-URL:https://huli.as
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2027-11-14_27f6d808-f7b4-4b38-8729-3499da44cb0b
-SUMMARY:[HULIAS] Open: Ann Cathrin November Høibo (NO)
-DTSTAMP:20260901T100630Z
-DTSTART:20271114T120000Z
-URL:https://huli.as
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2027-11-20_27f6d808-f7b4-4b38-8729-3499da44cb0b
-SUMMARY:[HULIAS] Open: Ann Cathrin November Høibo (NO)
-DTSTAMP:20260901T100630Z
-DTSTART:20271120T120000Z
-URL:https://huli.as
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2027-11-21_27f6d808-f7b4-4b38-8729-3499da44cb0b
-SUMMARY:[HULIAS] Open: Ann Cathrin November Høibo (NO)
-DTSTAMP:20260901T100630Z
-DTSTART:20271121T120000Z
-URL:https://huli.as
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2027-11-27_27f6d808-f7b4-4b38-8729-3499da44cb0b
-SUMMARY:[HULIAS] Open: Ann Cathrin November Høibo (NO)
-DTSTAMP:20260901T100630Z
-DTSTART:20271127T120000Z
-URL:https://huli.as
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
-END:VEVENT
-BEGIN:VEVENT
-UID:exhibition_2027-11-28_27f6d808-f7b4-4b38-8729-3499da44cb0b
-SUMMARY:[HULIAS] Open: Ann Cathrin November Høibo (NO)
-DTSTAMP:20260901T100630Z
-DTSTART:20271128T120000Z
-URL:https://huli.as
-LOCATION:Maridalsveien 3\, Oslo \nEnter from Møllerveien
-DURATION:PT3H
 END:VEVENT
 END:VCALENDAR
